@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background:
+    radial-gradient(circle at 15% 8%, #154255 0%, rgba(21, 66, 85, 0) 42%),
+    radial-gradient(circle at 84% 10%, #7e4a20 0%, rgba(126, 74, 32, 0) 36%),
+    linear-gradient(145deg, #060a11 0%, #091321 48%, #0d1018 100%);
+  color: #f3f4f6;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.font-display {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.font-mono {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.glass-panel {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.09), rgba(255, 255, 255, 0.03));
+  box-shadow: 0 25px 50px -22px rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(9px);
+  border-radius: 1.3rem;
+}
+
+.stat-card {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 1.2rem;
+  padding: 1.15rem;
+  background: linear-gradient(145deg, rgba(9, 20, 34, 0.86), rgba(8, 15, 28, 0.55));
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05), 0 18px 30px -20px rgba(0, 0, 0, 0.9);
+  transition: transform 250ms ease, border-color 250ms ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(255, 255, 255, 0.24);
+}
+
+.stat-label {
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: #94a3b8;
+  margin: 0;
+}
+
+.stat-value {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(1.6rem, 3vw, 2.3rem);
+  line-height: 1;
+  font-weight: 700;
+  color: #f8fafc;
+  margin: 0;
+}
+
+.stat-help {
+  color: #94a3b8;
+  font-size: 0.74rem;
+  margin: 0;
+}
+
+.stat-icon {
+  flex-shrink: 0;
+  width: 2.55rem;
+  height: 2.55rem;
+  border-radius: 0.9rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.ui-orb {
+  position: absolute;
+  border-radius: 999px;
+  filter: blur(4px);
+  pointer-events: none;
+  opacity: 0.48;
+  z-index: 0;
+}
+
+.ui-orb--teal {
+  width: 300px;
+  height: 300px;
+  top: -90px;
+  left: -60px;
+  background: radial-gradient(circle at 40% 35%, rgba(48, 179, 193, 0.48), rgba(48, 179, 193, 0));
+}
+
+.ui-orb--amber {
+  width: 350px;
+  height: 350px;
+  top: -100px;
+  right: -70px;
+  background: radial-gradient(circle at 45% 40%, rgba(255, 165, 94, 0.42), rgba(255, 165, 94, 0));
+}
+
+.reveal-enter {
+  opacity: 0;
+  transform: translateY(10px) scale(0.995);
+  animation: reveal-enter 520ms ease forwards;
+}
+
+@keyframes reveal-enter {
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Custom scrollbar for beautiful premium UI look */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0B0F19;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1F293D;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2C3A57;
+}

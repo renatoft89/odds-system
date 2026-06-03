@@ -1,0 +1,32 @@
+{
+  "name": "odds-system",
+  "version": "1.0.0",
+  "description": "Advanced anti-bot evasion web scraper base architecture using Playwright Stealth and MongoDB",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test:match": "node src/utils/matchEngine.js",
+    "site:build": "npm --prefix frontend run build",
+    "site:up": "npm run site:build && npx pm2 startOrRestart ecosystem.config.cjs && npx pm2 save",
+    "site:down": "npx pm2 delete odds-api odds-frontend",
+    "site:restart": "npx pm2 restart odds-api odds-frontend && npx pm2 save",
+    "site:status": "npx pm2 status",
+    "site:logs": "npx pm2 logs --lines 120",
+    "site:startup": "npx pm2 startup"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "mongoose": "^8.3.1",
+    "playwright": "^1.43.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "string-similarity": "^4.0.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "private": true
+}
