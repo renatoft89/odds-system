@@ -27,7 +27,7 @@ export default function LeverageTimeline() {
   const [error, setError] = useState(null);
   const [isGenerating, setIsGenerating] = useState(false);
 
-  // Faz o fetch do pipeline Soros a partir do backend
+  // Faz o fetch do pipeline de alavancagem a partir do backend
   const fetchPipeline = async (stake = initialStake, numSteps = steps, selectedLeague = league, showState = false) => {
     if (showState) setIsGenerating(true);
     else setLoading(true);
@@ -44,7 +44,7 @@ export default function LeverageTimeline() {
         setPipeline(json.data || []);
         setError(null);
       } else {
-        throw new Error(json.message || 'Falha ao calcular o pipeline de Soros.');
+        throw new Error(json.message || 'Falha ao calcular o pipeline de alavancagem.');
       }
     } catch (err) {
       console.error('[LeverageTimeline] Erro ao buscar pipeline:', err.message);
@@ -69,7 +69,7 @@ export default function LeverageTimeline() {
     fetchPipeline(initialStake, steps, league, true);
   };
 
-  // Estatísticas do Soros
+  // Estatísticas da alavancagem
   const totalProfit = pipeline.length > 0
     ? pipeline[pipeline.length - 1].retorno - initialStake
     : 0;
@@ -130,11 +130,11 @@ export default function LeverageTimeline() {
             </div>
           </div>
 
-          {/* Passos de Soros */}
+          {/* Passos de Alavancagem */}
           <div className="space-y-2.5">
             <label className="block text-xs font-bold uppercase tracking-wider text-slate-300 flex items-center gap-1.5">
               <Calculator className="h-4 w-4 text-cyan-300" />
-              Passos de Soros (Nível)
+              Passos de Alavancagem (Nível)
             </label>
             <select
               value={steps}
@@ -159,7 +159,7 @@ export default function LeverageTimeline() {
             ) : (
               <PlayCircle className="h-4.5 w-4.5 text-slate-950" />
             )}
-            Gerar Pipeline de Soros
+            Gerar Pipeline de Alavancagem
           </button>
 
         </form>
@@ -191,7 +191,7 @@ export default function LeverageTimeline() {
           </div>
           <h3 className="mt-5 font-display text-2xl font-bold text-slate-100">Sem odds qualificadas na grade</h3>
           <p className="mx-auto mt-2 max-w-xl text-sm text-slate-400 font-semibold leading-relaxed">
-            Nenhuma partida da liga selecionada atendeu aos critérios de Soros no momento (odds entre <strong>1.45 e 1.55</strong>). Tente outra liga ou aguarde novos jogos serem adicionados pela API.
+            Nenhuma partida da liga selecionada atendeu aos critérios de alavancagem no momento (odds entre <strong>1.45 e 1.55</strong>). Tente outra liga ou aguarde novos jogos serem adicionados pela API.
           </p>
         </section>
       ) : (
@@ -387,23 +387,23 @@ export default function LeverageTimeline() {
                 </div>
 
                 <button
-                  onClick={() => alert('Operação de Soros registrada no feed com sucesso!')}
+                  onClick={() => alert('Operação de alavancagem registrada no feed com sucesso!')}
                   className="w-full mt-2 py-4 bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-slate-950 font-black uppercase text-sm rounded-2xl shadow-xl shadow-emerald-500/10 hover:shadow-emerald-500/20 active:scale-95 transition-all text-center flex items-center justify-center gap-2"
                 >
                   <ShieldCheck className="h-4.5 w-4.5" />
-                  Iniciar Plano de Soros
+                  Iniciar Plano de Alavancagem
                 </button>
               </div>
             </article>
 
-            {/* Banner Educativo Soros */}
+            {/* Banner Educativo Alavancagem */}
             <article className="glass-panel p-5 rounded-3xl border border-white/5 bg-slate-950/40 text-xs font-medium text-slate-400 space-y-3">
               <h5 className="font-bold text-slate-300 uppercase tracking-wider flex items-center gap-1.5">
                 <HelpCircle className="h-4 w-4 text-cyan-300" />
                 Como funciona a Estratégia?
               </h5>
               <p className="leading-relaxed">
-                A estratégia de **Soros** visa multiplicar lucros reinvestindo o retorno do passo anterior de forma composta.
+                A estratégia de **alavancagem** visa multiplicar lucros reinvestindo o retorno do passo anterior de forma composta.
               </p>
               <ul className="list-disc pl-4 space-y-1.5 text-slate-500">
                 <li>Odd alvo de <span className="text-slate-300">1.50</span> dobra o capital a cada dois passos.</li>

@@ -50,7 +50,7 @@ export default function Dashboard() {
             }`}
           >
             <Coins className="h-4.5 w-4.5" />
-            Soros Alavancagem
+            Alavancagem
           </button>
           <button
             onClick={() => setActiveTab('boadodia')}
