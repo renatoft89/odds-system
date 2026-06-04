@@ -1,0 +1,4083 @@
+[
+  {
+    "_id": "6a1f56f1e0bcffe876d80829",
+    "homeTeam": "Palmeiras-SP",
+    "awayTeam": "Cerro Porteño",
+    "normalizedHomeTeam": "palmeiras",
+    "normalizedAwayTeam": "cerro porteno",
+    "sportsbookA": {
+      "homeOdds": 1.32,
+      "drawOdds": 5.6,
+      "awayOdds": 7.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:38.945Z",
+      "_id": "6a20c0626d2cac96f4e38ea1"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.35,
+      "drawOdds": 4,
+      "awayOdds": 8,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:38.949Z",
+      "_id": "6a20c0626d2cac96f4e38ea5"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.28,
+      "drawOdds": 5.25,
+      "awayOdds": 9.9,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0626d2cac96f4e38ea2"
+    },
+    "eventDate": "2026-08-12T00:00:00.000Z",
+    "league": "copa-libertadores",
+    "lastUpdated": "2026-06-04T00:01:38.952Z",
+    "createdAt": "2026-06-02T22:19:29.345Z",
+    "updatedAt": "2026-06-04T00:01:38.952Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80831",
+    "homeTeam": "Platense",
+    "awayTeam": "Coquimbo Unido",
+    "normalizedHomeTeam": "platense",
+    "normalizedAwayTeam": "coquimbo unido",
+    "sportsbookA": {
+      "homeOdds": 1.82,
+      "drawOdds": 3.05,
+      "awayOdds": 5.1,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:38.953Z",
+      "_id": "6a20c0626d2cac96f4e38ea8"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.85,
+      "drawOdds": 3,
+      "awayOdds": 4.33,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-04T00:01:38.957Z",
+      "_id": "6a20c0626d2cac96f4e38eac"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.8,
+      "drawOdds": 2.8,
+      "awayOdds": 3.75,
+      "bookmakerKey": "betfair_sb_uk",
+      "bookmakerName": "Betfair Sportsbook",
+      "_id": "6a20c0626d2cac96f4e38ea9"
+    },
+    "eventDate": "2026-08-12T00:00:00.000Z",
+    "league": "copa-libertadores",
+    "lastUpdated": "2026-06-04T00:01:38.959Z",
+    "createdAt": "2026-06-02T22:19:29.358Z",
+    "updatedAt": "2026-06-04T00:01:38.960Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80839",
+    "homeTeam": "Rosario Central",
+    "awayTeam": "Corinthians-SP",
+    "normalizedHomeTeam": "rosario central",
+    "normalizedAwayTeam": "corinthians",
+    "sportsbookA": {
+      "homeOdds": 2.18,
+      "drawOdds": 3.25,
+      "awayOdds": 3.25,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:38.961Z",
+      "_id": "6a20c0626d2cac96f4e38eaf"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.37,
+      "drawOdds": 2.45,
+      "awayOdds": 3.4,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:38.965Z",
+      "_id": "6a20c0626d2cac96f4e38eb3"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.22,
+      "drawOdds": 3.18,
+      "awayOdds": 3.25,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0626d2cac96f4e38eb0"
+    },
+    "eventDate": "2026-08-12T00:00:00.000Z",
+    "league": "copa-libertadores",
+    "lastUpdated": "2026-06-04T00:01:38.966Z",
+    "createdAt": "2026-06-02T22:19:29.367Z",
+    "updatedAt": "2026-06-04T00:01:38.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80841",
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Flamengo-RJ",
+    "normalizedHomeTeam": "cruzeiro",
+    "normalizedAwayTeam": "flamengo",
+    "sportsbookA": {
+      "homeOdds": 2.6,
+      "drawOdds": 3.25,
+      "awayOdds": 2.6,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:38.968Z",
+      "_id": "6a20c0626d2cac96f4e38eb6"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.8,
+      "drawOdds": 2.7,
+      "awayOdds": 2.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:38.971Z",
+      "_id": "6a20c0626d2cac96f4e38eba"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.62,
+      "drawOdds": 3.22,
+      "awayOdds": 2.64,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0626d2cac96f4e38eb7"
+    },
+    "eventDate": "2026-08-12T00:00:00.000Z",
+    "league": "copa-libertadores",
+    "lastUpdated": "2026-06-04T00:01:38.972Z",
+    "createdAt": "2026-06-02T22:19:29.375Z",
+    "updatedAt": "2026-06-04T00:01:38.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80849",
+    "homeTeam": "Deportes Tolima",
+    "awayTeam": "Independiente del Valle",
+    "normalizedHomeTeam": "deportes tolima",
+    "normalizedAwayTeam": "independiente del valle",
+    "sportsbookA": {
+      "homeOdds": 2.55,
+      "drawOdds": 3.25,
+      "awayOdds": 2.7,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:38.973Z",
+      "_id": "6a20c0626d2cac96f4e38ebd"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.5,
+      "drawOdds": 2.87,
+      "awayOdds": 2.7,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:38.976Z",
+      "_id": "6a20c0626d2cac96f4e38ec1"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.58,
+      "drawOdds": 3.24,
+      "awayOdds": 2.66,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0626d2cac96f4e38ebe"
+    },
+    "eventDate": "2026-08-12T00:00:00.000Z",
+    "league": "copa-libertadores",
+    "lastUpdated": "2026-06-04T00:01:38.978Z",
+    "createdAt": "2026-06-02T22:19:29.388Z",
+    "updatedAt": "2026-06-04T00:01:38.978Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80851",
+    "homeTeam": "Estudiantes La Plata",
+    "awayTeam": "Universidad Católica (CHI)",
+    "normalizedHomeTeam": "estudiantes la plata",
+    "normalizedAwayTeam": "universidad catolica chi",
+    "sportsbookA": {
+      "homeOdds": 1.71,
+      "drawOdds": 3.75,
+      "awayOdds": 4.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:38.979Z",
+      "_id": "6a20c0626d2cac96f4e38ec4"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.83,
+      "drawOdds": 2.8,
+      "awayOdds": 4.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:38.982Z",
+      "_id": "6a20c0626d2cac96f4e38ec8"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.66,
+      "drawOdds": 3.68,
+      "awayOdds": 5.05,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0626d2cac96f4e38ec5"
+    },
+    "eventDate": "2026-08-12T00:00:00.000Z",
+    "league": "copa-libertadores",
+    "lastUpdated": "2026-06-04T00:01:38.983Z",
+    "createdAt": "2026-06-02T22:19:29.394Z",
+    "updatedAt": "2026-06-04T00:01:38.984Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80859",
+    "homeTeam": "Fluminense-RJ",
+    "awayTeam": "Independiente Rivadavia",
+    "normalizedHomeTeam": "fluminense",
+    "normalizedAwayTeam": "independiente rivadavia",
+    "sportsbookA": {
+      "homeOdds": 1.56,
+      "drawOdds": 4.5,
+      "awayOdds": 4.75,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:38.984Z",
+      "_id": "6a20c0626d2cac96f4e38ecb"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.53,
+      "drawOdds": 3.5,
+      "awayOdds": 5.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:38.987Z",
+      "_id": "6a20c0626d2cac96f4e38ecf"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.53,
+      "drawOdds": 4.25,
+      "awayOdds": 5.45,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0626d2cac96f4e38ecc"
+    },
+    "eventDate": "2026-08-12T00:00:00.000Z",
+    "league": "copa-libertadores",
+    "lastUpdated": "2026-06-04T00:01:38.988Z",
+    "createdAt": "2026-06-02T22:19:29.398Z",
+    "updatedAt": "2026-06-04T00:01:38.988Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80861",
+    "homeTeam": "Mirassol",
+    "awayTeam": "LDU Quito",
+    "normalizedHomeTeam": "mirassol",
+    "normalizedAwayTeam": "ldu quito",
+    "sportsbookA": {
+      "homeOdds": 2,
+      "drawOdds": 3.4,
+      "awayOdds": 3.6,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:38.989Z",
+      "_id": "6a20c0626d2cac96f4e38ed2"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.85,
+      "drawOdds": 2.9,
+      "awayOdds": 4.2,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:38.992Z",
+      "_id": "6a20c0626d2cac96f4e38ed6"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.85,
+      "drawOdds": 3.44,
+      "awayOdds": 4.15,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0626d2cac96f4e38ed3"
+    },
+    "eventDate": "2026-08-12T00:00:00.000Z",
+    "league": "copa-libertadores",
+    "lastUpdated": "2026-06-04T00:01:38.993Z",
+    "createdAt": "2026-06-02T22:19:29.403Z",
+    "updatedAt": "2026-06-04T00:01:38.993Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80869",
+    "homeTeam": "Boca Juniors",
+    "awayTeam": "O'Higgins",
+    "normalizedHomeTeam": "boca juniors",
+    "normalizedAwayTeam": "o higgins",
+    "sportsbookA": {
+      "homeOdds": 1.43,
+      "drawOdds": 3.95,
+      "awayOdds": 8,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:39.392Z",
+      "_id": "6a20c0636d2cac96f4e38ed9"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.36,
+      "drawOdds": 4,
+      "awayOdds": 7,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-04T00:01:39.401Z",
+      "_id": "6a20c0636d2cac96f4e38edd"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.48,
+      "drawOdds": 5.31,
+      "awayOdds": 6.36,
+      "bookmakerKey": "onexbet",
+      "bookmakerName": "1xBet",
+      "_id": "6a20c0636d2cac96f4e38eda"
+    },
+    "eventDate": "2026-07-22T00:00:00.000Z",
+    "league": "copa-sudamericana",
+    "lastUpdated": "2026-06-04T00:01:39.404Z",
+    "createdAt": "2026-06-02T22:19:29.788Z",
+    "updatedAt": "2026-06-04T00:01:39.405Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80871",
+    "homeTeam": "Sporting Cristal",
+    "awayTeam": "Bragantino-SP",
+    "normalizedHomeTeam": "sporting cristal",
+    "normalizedAwayTeam": "bragantino",
+    "sportsbookA": {
+      "homeOdds": 2.55,
+      "drawOdds": 3,
+      "awayOdds": 2.88,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:39.406Z",
+      "_id": "6a20c0636d2cac96f4e38ee0"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.5,
+      "drawOdds": 2.75,
+      "awayOdds": 2.8,
+      "bookmakerKey": "coral",
+      "bookmakerName": "Coral",
+      "scrapedAt": "2026-06-04T00:01:39.410Z",
+      "_id": "6a20c0636d2cac96f4e38ee4"
+    },
+    "sharpOdds": {
+      "homeOdds": 3.12,
+      "drawOdds": 3.44,
+      "awayOdds": 2.44,
+      "bookmakerKey": "onexbet",
+      "bookmakerName": "1xBet",
+      "_id": "6a20c0636d2cac96f4e38ee1"
+    },
+    "eventDate": "2026-07-22T00:00:00.000Z",
+    "league": "copa-sudamericana",
+    "lastUpdated": "2026-06-04T00:01:39.412Z",
+    "createdAt": "2026-06-02T22:19:29.800Z",
+    "updatedAt": "2026-06-04T00:01:39.412Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80879",
+    "homeTeam": "Nacional de Montevideo",
+    "awayTeam": "CA Tigre BA",
+    "normalizedHomeTeam": "nacional de montevideo",
+    "normalizedAwayTeam": "ca tigre",
+    "sportsbookA": {
+      "homeOdds": 1.83,
+      "drawOdds": 3.5,
+      "awayOdds": 4.1,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:39.413Z",
+      "_id": "6a20c0636d2cac96f4e38ee7"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.8,
+      "drawOdds": 3.3,
+      "awayOdds": 4,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-04T00:01:39.415Z",
+      "_id": "6a20c0636d2cac96f4e38eea"
+    },
+    "sharpOdds": null,
+    "eventDate": "2026-07-22T00:00:00.000Z",
+    "league": "copa-sudamericana",
+    "lastUpdated": "2026-06-04T00:01:39.417Z",
+    "createdAt": "2026-06-02T22:19:29.809Z",
+    "updatedAt": "2026-06-04T00:01:39.417Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80880",
+    "homeTeam": "Independiente Santa Fe",
+    "awayTeam": "Caracas FC",
+    "normalizedHomeTeam": "independiente santa fe",
+    "normalizedAwayTeam": "caracas",
+    "sportsbookA": {
+      "homeOdds": 1.54,
+      "drawOdds": 3.85,
+      "awayOdds": 6,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:39.418Z",
+      "_id": "6a20c0636d2cac96f4e38eed"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.4,
+      "drawOdds": 3.8,
+      "awayOdds": 7,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-04T00:01:39.420Z",
+      "_id": "6a20c0636d2cac96f4e38ef1"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.56,
+      "drawOdds": 4.38,
+      "awayOdds": 6.56,
+      "bookmakerKey": "onexbet",
+      "bookmakerName": "1xBet",
+      "_id": "6a20c0636d2cac96f4e38eee"
+    },
+    "eventDate": "2026-07-22T00:00:00.000Z",
+    "league": "copa-sudamericana",
+    "lastUpdated": "2026-06-04T00:01:39.421Z",
+    "createdAt": "2026-06-02T22:19:29.815Z",
+    "updatedAt": "2026-06-04T00:01:39.422Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80888",
+    "homeTeam": "Independiente Medellín",
+    "awayTeam": "Vasco da Gama",
+    "normalizedHomeTeam": "independiente medellin",
+    "normalizedAwayTeam": "vasco da gama",
+    "sportsbookA": {
+      "homeOdds": 2.28,
+      "drawOdds": 3.3,
+      "awayOdds": 3.05,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:39.433Z",
+      "_id": "6a20c0636d2cac96f4e38f02"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.3,
+      "drawOdds": 3,
+      "awayOdds": 2.9,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-04T00:01:39.435Z",
+      "_id": "6a20c0636d2cac96f4e38f06"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.77,
+      "drawOdds": 3.35,
+      "awayOdds": 2.77,
+      "bookmakerKey": "onexbet",
+      "bookmakerName": "1xBet",
+      "_id": "6a20c0636d2cac96f4e38f03"
+    },
+    "eventDate": "2026-07-22T00:00:00.000Z",
+    "league": "copa-sudamericana",
+    "lastUpdated": "2026-06-04T00:01:39.436Z",
+    "createdAt": "2026-06-02T22:19:29.820Z",
+    "updatedAt": "2026-06-04T00:01:39.436Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80890",
+    "homeTeam": "Lanus",
+    "awayTeam": "Club Cienciano",
+    "normalizedHomeTeam": "lanus",
+    "normalizedAwayTeam": "cienciano",
+    "sportsbookA": {
+      "homeOdds": 1.5,
+      "drawOdds": 3.9,
+      "awayOdds": 6.75,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:39.428Z",
+      "_id": "6a20c0636d2cac96f4e38efb"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.36,
+      "drawOdds": 4,
+      "awayOdds": 7.5,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-04T00:01:39.431Z",
+      "_id": "6a20c0636d2cac96f4e38eff"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.4,
+      "drawOdds": 5.82,
+      "awayOdds": 7.55,
+      "bookmakerKey": "onexbet",
+      "bookmakerName": "1xBet",
+      "_id": "6a20c0636d2cac96f4e38efc"
+    },
+    "eventDate": "2026-07-22T00:00:00.000Z",
+    "league": "copa-sudamericana",
+    "lastUpdated": "2026-06-04T00:01:39.431Z",
+    "createdAt": "2026-06-02T22:19:29.824Z",
+    "updatedAt": "2026-06-04T00:01:39.432Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d80898",
+    "homeTeam": "UCV FC",
+    "awayTeam": "Santos",
+    "normalizedHomeTeam": "ucv",
+    "normalizedAwayTeam": "santos",
+    "sportsbookA": {
+      "homeOdds": 3.85,
+      "drawOdds": 4.1,
+      "awayOdds": 1.75,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:39.437Z",
+      "_id": "6a20c0636d2cac96f4e38f09"
+    },
+    "sportsbookB": {
+      "homeOdds": 4.5,
+      "drawOdds": 3.6,
+      "awayOdds": 1.65,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-04T00:01:39.439Z",
+      "_id": "6a20c0636d2cac96f4e38f0c"
+    },
+    "sharpOdds": null,
+    "eventDate": "2026-07-22T15:00:00.000Z",
+    "league": "copa-sudamericana",
+    "lastUpdated": "2026-06-04T00:01:39.440Z",
+    "createdAt": "2026-06-02T22:19:29.829Z",
+    "updatedAt": "2026-06-04T00:01:39.440Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f56f1e0bcffe876d8089f",
+    "homeTeam": "Club Bolívar",
+    "awayTeam": "Grêmio",
+    "normalizedHomeTeam": "bolivar",
+    "normalizedAwayTeam": "gremio",
+    "sportsbookA": {
+      "homeOdds": 1.66,
+      "drawOdds": 4.25,
+      "awayOdds": 4.25,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:39.423Z",
+      "_id": "6a20c0636d2cac96f4e38ef4"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.66,
+      "drawOdds": 4.25,
+      "awayOdds": 4.25,
+      "bookmakerKey": "casumo",
+      "bookmakerName": "Casumo",
+      "scrapedAt": "2026-06-04T00:01:39.425Z",
+      "_id": "6a20c0636d2cac96f4e38ef8"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.74,
+      "drawOdds": 4.48,
+      "awayOdds": 4.48,
+      "bookmakerKey": "onexbet",
+      "bookmakerName": "1xBet",
+      "_id": "6a20c0636d2cac96f4e38ef5"
+    },
+    "eventDate": "2026-07-22T00:00:00.000Z",
+    "league": "copa-sudamericana",
+    "lastUpdated": "2026-06-04T00:01:39.427Z",
+    "createdAt": "2026-06-02T22:19:29.833Z",
+    "updatedAt": "2026-06-04T00:01:39.427Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f6827786edbc36db2f9b9",
+    "homeTeam": "Operario PR",
+    "awayTeam": "Juventude",
+    "normalizedHomeTeam": "operario",
+    "normalizedAwayTeam": "juventude",
+    "sportsbookA": {
+      "homeOdds": 2.32,
+      "drawOdds": 2.7,
+      "awayOdds": 3.8,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-03T22:15:29.962Z",
+      "_id": "6a20a781be75bd708de95f70"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.15,
+      "drawOdds": 2.8,
+      "awayOdds": 3.3,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-03T22:15:29.969Z",
+      "_id": "6a20a781be75bd708de95f74"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.32,
+      "drawOdds": 2.74,
+      "awayOdds": 3.84,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20a781be75bd708de95f71"
+    },
+    "eventDate": "2026-06-05T23:00:00.000Z",
+    "league": "brazil-serie-b",
+    "lastUpdated": "2026-06-03T22:15:29.972Z",
+    "createdAt": "2026-06-02T23:32:55.745Z",
+    "updatedAt": "2026-06-03T22:15:29.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f6827786edbc36db2f9c1",
+    "homeTeam": "Criciuma",
+    "awayTeam": "Londrina",
+    "normalizedHomeTeam": "criciuma",
+    "normalizedAwayTeam": "londrina",
+    "sportsbookA": {
+      "homeOdds": 1.67,
+      "drawOdds": 3.6,
+      "awayOdds": 5.3,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-03T22:15:29.974Z",
+      "_id": "6a20a781be75bd708de95f77"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.62,
+      "drawOdds": 3.4,
+      "awayOdds": 5.5,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-03T22:15:29.978Z",
+      "_id": "6a20a781be75bd708de95f7b"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.66,
+      "drawOdds": 3.55,
+      "awayOdds": 5.68,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20a781be75bd708de95f78"
+    },
+    "eventDate": "2026-06-06T14:00:00.000Z",
+    "league": "brazil-serie-b",
+    "lastUpdated": "2026-06-03T22:15:29.979Z",
+    "createdAt": "2026-06-02T23:32:55.757Z",
+    "updatedAt": "2026-06-03T22:15:29.980Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f6827786edbc36db2f9c9",
+    "homeTeam": "Clube de Regatas Brasil",
+    "awayTeam": "São Bernardo",
+    "normalizedHomeTeam": "de brasil",
+    "normalizedAwayTeam": "sao bernardo",
+    "sportsbookA": {
+      "homeOdds": 1.73,
+      "drawOdds": 3.6,
+      "awayOdds": 4.75,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-03T22:15:29.981Z",
+      "_id": "6a20a781be75bd708de95f7e"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.73,
+      "drawOdds": 3.5,
+      "awayOdds": 4.5,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-03T22:15:29.985Z",
+      "_id": "6a20a781be75bd708de95f82"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.78,
+      "drawOdds": 3.54,
+      "awayOdds": 4.65,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20a781be75bd708de95f7f"
+    },
+    "eventDate": "2026-06-07T19:00:00.000Z",
+    "league": "brazil-serie-b",
+    "lastUpdated": "2026-06-03T22:15:29.986Z",
+    "createdAt": "2026-06-02T23:32:55.762Z",
+    "updatedAt": "2026-06-03T22:15:29.987Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f6827786edbc36db2f9d1",
+    "homeTeam": "América Mineiro",
+    "awayTeam": "Atletico Goianiense",
+    "normalizedHomeTeam": "america mineiro",
+    "normalizedAwayTeam": "atletico goianiense",
+    "sportsbookA": {
+      "homeOdds": 2.32,
+      "drawOdds": 3.1,
+      "awayOdds": 3.3,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-03T22:15:29.988Z",
+      "_id": "6a20a781be75bd708de95f85"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.37,
+      "drawOdds": 2.9,
+      "awayOdds": 2.8,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-03T22:15:29.990Z",
+      "_id": "6a20a781be75bd708de95f89"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.51,
+      "drawOdds": 3.11,
+      "awayOdds": 2.99,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20a781be75bd708de95f86"
+    },
+    "eventDate": "2026-06-08T23:00:00.000Z",
+    "league": "brazil-serie-b",
+    "lastUpdated": "2026-06-03T22:15:29.991Z",
+    "createdAt": "2026-06-02T23:32:55.767Z",
+    "updatedAt": "2026-06-03T22:15:29.992Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f6827786edbc36db2f9d9",
+    "homeTeam": "Vila Nova",
+    "awayTeam": "Botafogo",
+    "normalizedHomeTeam": "vila nova",
+    "normalizedAwayTeam": "botafogo",
+    "sportsbookA": {
+      "homeOdds": 1.88,
+      "drawOdds": 3.05,
+      "awayOdds": 4.7,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-03T22:15:29.993Z",
+      "_id": "6a20a781be75bd708de95f8c"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.95,
+      "drawOdds": 3,
+      "awayOdds": 3.7,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-03T22:15:29.995Z",
+      "_id": "6a20a781be75bd708de95f90"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.03,
+      "drawOdds": 3.02,
+      "awayOdds": 4.28,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20a781be75bd708de95f8d"
+    },
+    "eventDate": "2026-06-08T23:00:00.000Z",
+    "league": "brazil-serie-b",
+    "lastUpdated": "2026-06-03T22:15:29.996Z",
+    "createdAt": "2026-06-02T23:32:55.772Z",
+    "updatedAt": "2026-06-03T22:15:29.997Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f6827786edbc36db2f9e1",
+    "homeTeam": "Ponte Preta",
+    "awayTeam": "Cuiabá",
+    "normalizedHomeTeam": "ponte preta",
+    "normalizedAwayTeam": "cuiaba",
+    "sportsbookA": {
+      "homeOdds": 2.88,
+      "drawOdds": 2.9,
+      "awayOdds": 2.7,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-03T22:15:29.997Z",
+      "_id": "6a20a781be75bd708de95f93"
+    },
+    "sportsbookB": {
+      "homeOdds": 3,
+      "drawOdds": 2.75,
+      "awayOdds": 2.4,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-03T22:15:29.999Z",
+      "_id": "6a20a782be75bd708de95f97"
+    },
+    "sharpOdds": {
+      "homeOdds": 3.28,
+      "drawOdds": 2.84,
+      "awayOdds": 2.52,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20a781be75bd708de95f94"
+    },
+    "eventDate": "2026-06-09T22:00:00.000Z",
+    "league": "brazil-serie-b",
+    "lastUpdated": "2026-06-03T22:15:30.001Z",
+    "createdAt": "2026-06-02T23:32:55.777Z",
+    "updatedAt": "2026-06-03T22:15:30.001Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f6827786edbc36db2f9e9",
+    "homeTeam": "Nautico PE",
+    "awayTeam": "Fortaleza",
+    "normalizedHomeTeam": "nautico",
+    "normalizedAwayTeam": "fortaleza",
+    "sportsbookA": {
+      "homeOdds": 2.23,
+      "drawOdds": 3.2,
+      "awayOdds": 3.3,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-03T22:15:30.002Z",
+      "_id": "6a20a782be75bd708de95f9a"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.1,
+      "drawOdds": 3.1,
+      "awayOdds": 3.25,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-03T22:15:30.005Z",
+      "_id": "6a20a782be75bd708de95f9e"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.24,
+      "drawOdds": 3.15,
+      "awayOdds": 3.42,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20a782be75bd708de95f9b"
+    },
+    "eventDate": "2026-06-09T22:00:00.000Z",
+    "league": "brazil-serie-b",
+    "lastUpdated": "2026-06-03T22:15:30.006Z",
+    "createdAt": "2026-06-02T23:32:55.782Z",
+    "updatedAt": "2026-06-03T22:15:30.006Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f6827786edbc36db2f9f1",
+    "homeTeam": "Ceará",
+    "awayTeam": "Avai",
+    "normalizedHomeTeam": "ceara",
+    "normalizedAwayTeam": "avai",
+    "sportsbookA": {
+      "homeOdds": 1.5,
+      "drawOdds": 3.8,
+      "awayOdds": 5.7,
+      "bookmakerKey": "tipico_de",
+      "bookmakerName": "Tipico",
+      "scrapedAt": "2026-06-03T22:15:30.007Z",
+      "_id": "6a20a782be75bd708de95fa1"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.53,
+      "drawOdds": 3.75,
+      "awayOdds": 5,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-03T22:15:30.010Z",
+      "_id": "6a20a782be75bd708de95fa5"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.58,
+      "drawOdds": 3.92,
+      "awayOdds": 5.69,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20a782be75bd708de95fa2"
+    },
+    "eventDate": "2026-06-10T23:00:00.000Z",
+    "league": "brazil-serie-b",
+    "lastUpdated": "2026-06-03T22:15:30.011Z",
+    "createdAt": "2026-06-02T23:32:55.787Z",
+    "updatedAt": "2026-06-03T22:15:30.011Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f6827786edbc36db2f9f9",
+    "homeTeam": "Goiás",
+    "awayTeam": "Grêmio Novorizontino",
+    "normalizedHomeTeam": "goias",
+    "normalizedAwayTeam": "gremio novorizontino",
+    "sportsbookA": {
+      "homeOdds": 2.1,
+      "drawOdds": 2.85,
+      "awayOdds": 3.6,
+      "bookmakerKey": "tipico_de",
+      "bookmakerName": "Tipico",
+      "scrapedAt": "2026-06-03T22:15:30.012Z",
+      "_id": "6a20a782be75bd708de95fa8"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.15,
+      "drawOdds": 3,
+      "awayOdds": 3.3,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-03T22:15:30.015Z",
+      "_id": "6a20a782be75bd708de95fac"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.26,
+      "drawOdds": 2.96,
+      "awayOdds": 3.63,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20a782be75bd708de95fa9"
+    },
+    "eventDate": "2026-06-10T23:00:00.000Z",
+    "league": "brazil-serie-b",
+    "lastUpdated": "2026-06-03T22:15:30.016Z",
+    "createdAt": "2026-06-02T23:32:55.791Z",
+    "updatedAt": "2026-06-03T22:15:30.016Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f6827786edbc36db2fa01",
+    "homeTeam": "Sport Recife",
+    "awayTeam": "Athletic Club (MG)",
+    "normalizedHomeTeam": "sport recife",
+    "normalizedAwayTeam": "athletic",
+    "sportsbookA": {
+      "homeOdds": 1.65,
+      "drawOdds": 3.5,
+      "awayOdds": 4.6,
+      "bookmakerKey": "tipico_de",
+      "bookmakerName": "Tipico",
+      "scrapedAt": "2026-06-03T22:15:30.017Z",
+      "_id": "6a20a782be75bd708de95faf"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.62,
+      "drawOdds": 3.6,
+      "awayOdds": 4.75,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-03T22:15:30.019Z",
+      "_id": "6a20a782be75bd708de95fb3"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.76,
+      "drawOdds": 3.55,
+      "awayOdds": 4.78,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20a782be75bd708de95fb0"
+    },
+    "eventDate": "2026-06-11T00:00:00.000Z",
+    "league": "brazil-serie-b",
+    "lastUpdated": "2026-06-03T22:15:30.020Z",
+    "createdAt": "2026-06-02T23:32:55.796Z",
+    "updatedAt": "2026-06-03T22:15:30.020Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938615a",
+    "homeTeam": "Mexico",
+    "awayTeam": "South Africa",
+    "normalizedHomeTeam": "mexico",
+    "normalizedAwayTeam": "south africa",
+    "sportsbookA": {
+      "homeOdds": 1.44,
+      "drawOdds": 4.35,
+      "awayOdds": 8.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.093Z",
+      "_id": "6a20c0646d2cac96f4e38f0f"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.44,
+      "drawOdds": 4.2,
+      "awayOdds": 7.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.096Z",
+      "_id": "6a20c0646d2cac96f4e38f13"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.42,
+      "drawOdds": 4.61,
+      "awayOdds": 8.44,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f10"
+    },
+    "eventDate": "2026-06-11T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.097Z",
+    "createdAt": "2026-06-02T23:37:39.062Z",
+    "updatedAt": "2026-06-04T00:01:40.097Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386162",
+    "homeTeam": "South Korea",
+    "awayTeam": "Czech Republic",
+    "normalizedHomeTeam": "south korea",
+    "normalizedAwayTeam": "czech republic",
+    "sportsbookA": {
+      "homeOdds": 2.75,
+      "drawOdds": 3.2,
+      "awayOdds": 2.8,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.098Z",
+      "_id": "6a20c0646d2cac96f4e38f16"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.62,
+      "drawOdds": 3.1,
+      "awayOdds": 2.75,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.101Z",
+      "_id": "6a20c0646d2cac96f4e38f1a"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.71,
+      "drawOdds": 3.13,
+      "awayOdds": 2.9,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f17"
+    },
+    "eventDate": "2026-06-12T02:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.102Z",
+    "createdAt": "2026-06-02T23:37:39.067Z",
+    "updatedAt": "2026-06-04T00:01:40.102Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938616a",
+    "homeTeam": "Canada",
+    "awayTeam": "Bosnia & Herzegovina",
+    "normalizedHomeTeam": "canada",
+    "normalizedAwayTeam": "bosnia herzegovina",
+    "sportsbookA": {
+      "homeOdds": 1.85,
+      "drawOdds": 3.45,
+      "awayOdds": 4.8,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.103Z",
+      "_id": "6a20c0646d2cac96f4e38f1d"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.8,
+      "drawOdds": 3.5,
+      "awayOdds": 4.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.105Z",
+      "_id": "6a20c0646d2cac96f4e38f21"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.81,
+      "drawOdds": 3.79,
+      "awayOdds": 4.55,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f1e"
+    },
+    "eventDate": "2026-06-12T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.106Z",
+    "createdAt": "2026-06-02T23:37:39.072Z",
+    "updatedAt": "2026-06-04T00:01:40.107Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386172",
+    "homeTeam": "USA",
+    "awayTeam": "Paraguay",
+    "normalizedHomeTeam": "usa",
+    "normalizedAwayTeam": "paraguay",
+    "sportsbookA": {
+      "homeOdds": 1.94,
+      "drawOdds": 3.55,
+      "awayOdds": 4.1,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.107Z",
+      "_id": "6a20c0646d2cac96f4e38f24"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.95,
+      "drawOdds": 3.3,
+      "awayOdds": 3.9,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.110Z",
+      "_id": "6a20c0646d2cac96f4e38f28"
+    },
+    "sharpOdds": {
+      "homeOdds": 2,
+      "drawOdds": 3.53,
+      "awayOdds": 3.97,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f25"
+    },
+    "eventDate": "2026-06-13T01:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.111Z",
+    "createdAt": "2026-06-02T23:37:39.077Z",
+    "updatedAt": "2026-06-04T00:01:40.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938617a",
+    "homeTeam": "Qatar",
+    "awayTeam": "Switzerland",
+    "normalizedHomeTeam": "qatar",
+    "normalizedAwayTeam": "switzerland",
+    "sportsbookA": {
+      "homeOdds": 14,
+      "drawOdds": 6.5,
+      "awayOdds": 1.25,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.112Z",
+      "_id": "6a20c0646d2cac96f4e38f2b"
+    },
+    "sportsbookB": {
+      "homeOdds": 12,
+      "drawOdds": 6,
+      "awayOdds": 1.22,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.114Z",
+      "_id": "6a20c0646d2cac96f4e38f2f"
+    },
+    "sharpOdds": {
+      "homeOdds": 11.88,
+      "drawOdds": 6.73,
+      "awayOdds": 1.24,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f2c"
+    },
+    "eventDate": "2026-06-13T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.115Z",
+    "createdAt": "2026-06-02T23:37:39.081Z",
+    "updatedAt": "2026-06-04T00:01:40.115Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386182",
+    "homeTeam": "Brazil",
+    "awayTeam": "Morocco",
+    "normalizedHomeTeam": "brazil",
+    "normalizedAwayTeam": "morocco",
+    "sportsbookA": {
+      "homeOdds": 1.61,
+      "drawOdds": 4,
+      "awayOdds": 6.1,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.116Z",
+      "_id": "6a20c0646d2cac96f4e38f32"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.6,
+      "drawOdds": 3.9,
+      "awayOdds": 5.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.118Z",
+      "_id": "6a20c0646d2cac96f4e38f36"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.64,
+      "drawOdds": 3.86,
+      "awayOdds": 5.93,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f33"
+    },
+    "eventDate": "2026-06-13T22:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.120Z",
+    "createdAt": "2026-06-02T23:37:39.087Z",
+    "updatedAt": "2026-06-04T00:01:40.120Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938618a",
+    "homeTeam": "Haiti",
+    "awayTeam": "Scotland",
+    "normalizedHomeTeam": "haiti",
+    "normalizedAwayTeam": "scotland",
+    "sportsbookA": {
+      "homeOdds": 8,
+      "drawOdds": 4.6,
+      "awayOdds": 1.43,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.121Z",
+      "_id": "6a20c0646d2cac96f4e38f39"
+    },
+    "sportsbookB": {
+      "homeOdds": 7,
+      "drawOdds": 4.4,
+      "awayOdds": 1.44,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.123Z",
+      "_id": "6a20c0646d2cac96f4e38f3d"
+    },
+    "sharpOdds": {
+      "homeOdds": 6.96,
+      "drawOdds": 4.47,
+      "awayOdds": 1.49,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f3a"
+    },
+    "eventDate": "2026-06-14T01:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.124Z",
+    "createdAt": "2026-06-02T23:37:39.091Z",
+    "updatedAt": "2026-06-04T00:01:40.124Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386192",
+    "homeTeam": "Australia",
+    "awayTeam": "Turkey",
+    "normalizedHomeTeam": "australia",
+    "normalizedAwayTeam": "turkey",
+    "sportsbookA": {
+      "homeOdds": 4.9,
+      "drawOdds": 3.7,
+      "awayOdds": 1.78,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.125Z",
+      "_id": "6a20c0646d2cac96f4e38f40"
+    },
+    "sportsbookB": {
+      "homeOdds": 4.4,
+      "drawOdds": 3.5,
+      "awayOdds": 1.8,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.127Z",
+      "_id": "6a20c0646d2cac96f4e38f44"
+    },
+    "sharpOdds": {
+      "homeOdds": 4.76,
+      "drawOdds": 3.75,
+      "awayOdds": 1.79,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f41"
+    },
+    "eventDate": "2026-06-14T04:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.128Z",
+    "createdAt": "2026-06-02T23:37:39.096Z",
+    "updatedAt": "2026-06-04T00:01:40.129Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938619a",
+    "homeTeam": "Germany",
+    "awayTeam": "Curaçao",
+    "normalizedHomeTeam": "germany",
+    "normalizedAwayTeam": "curacao",
+    "sportsbookA": {
+      "homeOdds": 1.05,
+      "drawOdds": 19,
+      "awayOdds": 51,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.129Z",
+      "_id": "6a20c0646d2cac96f4e38f47"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.05,
+      "drawOdds": 15,
+      "awayOdds": 41,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.132Z",
+      "_id": "6a20c0646d2cac96f4e38f4b"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.05,
+      "drawOdds": 16.75,
+      "awayOdds": 61,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0646d2cac96f4e38f48"
+    },
+    "eventDate": "2026-06-14T17:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.133Z",
+    "createdAt": "2026-06-02T23:37:39.100Z",
+    "updatedAt": "2026-06-04T00:01:40.133Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861a2",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Japan",
+    "normalizedHomeTeam": "netherlands",
+    "normalizedAwayTeam": "japan",
+    "sportsbookA": {
+      "homeOdds": 2.02,
+      "drawOdds": 3.55,
+      "awayOdds": 3.85,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.134Z",
+      "_id": "6a20c0646d2cac96f4e38f4e"
+    },
+    "sportsbookB": {
+      "homeOdds": 2,
+      "drawOdds": 3.5,
+      "awayOdds": 3.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.137Z",
+      "_id": "6a20c0646d2cac96f4e38f52"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.99,
+      "drawOdds": 3.73,
+      "awayOdds": 3.8,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f4f"
+    },
+    "eventDate": "2026-06-14T20:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.138Z",
+    "createdAt": "2026-06-02T23:37:39.105Z",
+    "updatedAt": "2026-06-04T00:01:40.139Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861aa",
+    "homeTeam": "Ivory Coast",
+    "awayTeam": "Ecuador",
+    "normalizedHomeTeam": "ivory coast",
+    "normalizedAwayTeam": "ecuador",
+    "sportsbookA": {
+      "homeOdds": 3.85,
+      "drawOdds": 2.8,
+      "awayOdds": 2.35,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.140Z",
+      "_id": "6a20c0646d2cac96f4e38f55"
+    },
+    "sportsbookB": {
+      "homeOdds": 3.5,
+      "drawOdds": 3,
+      "awayOdds": 2.3,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.142Z",
+      "_id": "6a20c0646d2cac96f4e38f59"
+    },
+    "sharpOdds": {
+      "homeOdds": 3.88,
+      "drawOdds": 2.8,
+      "awayOdds": 2.39,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f56"
+    },
+    "eventDate": "2026-06-14T23:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.143Z",
+    "createdAt": "2026-06-02T23:37:39.110Z",
+    "updatedAt": "2026-06-04T00:01:40.143Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861b2",
+    "homeTeam": "Sweden",
+    "awayTeam": "Tunisia",
+    "normalizedHomeTeam": "sweden",
+    "normalizedAwayTeam": "tunisia",
+    "sportsbookA": {
+      "homeOdds": 1.95,
+      "drawOdds": 3.4,
+      "awayOdds": 4.35,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.144Z",
+      "_id": "6a20c0646d2cac96f4e38f5c"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.95,
+      "drawOdds": 3.3,
+      "awayOdds": 4,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.146Z",
+      "_id": "6a20c0646d2cac96f4e38f60"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.98,
+      "drawOdds": 3.45,
+      "awayOdds": 4.17,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f5d"
+    },
+    "eventDate": "2026-06-15T02:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.147Z",
+    "createdAt": "2026-06-02T23:37:39.115Z",
+    "updatedAt": "2026-06-04T00:01:40.147Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861ba",
+    "homeTeam": "Spain",
+    "awayTeam": "Cape Verde",
+    "normalizedHomeTeam": "spain",
+    "normalizedAwayTeam": "cape verde",
+    "sportsbookA": {
+      "homeOdds": 1.09,
+      "drawOdds": 14,
+      "awayOdds": 29,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.148Z",
+      "_id": "6a20c0646d2cac96f4e38f63"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.1,
+      "drawOdds": 10,
+      "awayOdds": 26,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.150Z",
+      "_id": "6a20c0646d2cac96f4e38f67"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.1,
+      "drawOdds": 10.75,
+      "awayOdds": 35,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0646d2cac96f4e38f64"
+    },
+    "eventDate": "2026-06-15T16:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.151Z",
+    "createdAt": "2026-06-02T23:37:39.119Z",
+    "updatedAt": "2026-06-04T00:01:40.151Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861c2",
+    "homeTeam": "Belgium",
+    "awayTeam": "Egypt",
+    "normalizedHomeTeam": "belgium",
+    "normalizedAwayTeam": "egypt",
+    "sportsbookA": {
+      "homeOdds": 1.7,
+      "drawOdds": 4,
+      "awayOdds": 5.1,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.152Z",
+      "_id": "6a20c0646d2cac96f4e38f6a"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.65,
+      "drawOdds": 4,
+      "awayOdds": 4.8,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.154Z",
+      "_id": "6a20c0646d2cac96f4e38f6e"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.67,
+      "drawOdds": 4.01,
+      "awayOdds": 5.32,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f6b"
+    },
+    "eventDate": "2026-06-15T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.155Z",
+    "createdAt": "2026-06-02T23:37:39.125Z",
+    "updatedAt": "2026-06-04T00:01:40.155Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861ca",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Uruguay",
+    "normalizedHomeTeam": "saudi arabia",
+    "normalizedAwayTeam": "uruguay",
+    "sportsbookA": {
+      "homeOdds": 7,
+      "drawOdds": 4.4,
+      "awayOdds": 1.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.156Z",
+      "_id": "6a20c0646d2cac96f4e38f71"
+    },
+    "sportsbookB": {
+      "homeOdds": 6.5,
+      "drawOdds": 4.33,
+      "awayOdds": 1.48,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.158Z",
+      "_id": "6a20c0646d2cac96f4e38f75"
+    },
+    "sharpOdds": {
+      "homeOdds": 7.31,
+      "drawOdds": 4.49,
+      "awayOdds": 1.47,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f72"
+    },
+    "eventDate": "2026-06-15T22:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.159Z",
+    "createdAt": "2026-06-02T23:37:39.129Z",
+    "updatedAt": "2026-06-04T00:01:40.159Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861d2",
+    "homeTeam": "Iran",
+    "awayTeam": "New Zealand",
+    "normalizedHomeTeam": "iran",
+    "normalizedAwayTeam": "new zealand",
+    "sportsbookA": {
+      "homeOdds": 1.91,
+      "drawOdds": 3.5,
+      "awayOdds": 4.4,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.160Z",
+      "_id": "6a20c0646d2cac96f4e38f78"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.85,
+      "drawOdds": 3.4,
+      "awayOdds": 4.33,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.162Z",
+      "_id": "6a20c0646d2cac96f4e38f7c"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.92,
+      "drawOdds": 3.5,
+      "awayOdds": 4.37,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f79"
+    },
+    "eventDate": "2026-06-16T01:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.163Z",
+    "createdAt": "2026-06-02T23:37:39.133Z",
+    "updatedAt": "2026-06-04T00:01:40.164Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861da",
+    "homeTeam": "France",
+    "awayTeam": "Senegal",
+    "normalizedHomeTeam": "france",
+    "normalizedAwayTeam": "senegal",
+    "sportsbookA": {
+      "homeOdds": 1.43,
+      "drawOdds": 4.8,
+      "awayOdds": 7.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.164Z",
+      "_id": "6a20c0646d2cac96f4e38f7f"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.44,
+      "drawOdds": 4.4,
+      "awayOdds": 7,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.166Z",
+      "_id": "6a20c0646d2cac96f4e38f83"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.45,
+      "drawOdds": 4.63,
+      "awayOdds": 7.54,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f80"
+    },
+    "eventDate": "2026-06-16T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.167Z",
+    "createdAt": "2026-06-02T23:37:39.138Z",
+    "updatedAt": "2026-06-04T00:01:40.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861e2",
+    "homeTeam": "Iraq",
+    "awayTeam": "Norway",
+    "normalizedHomeTeam": "iraq",
+    "normalizedAwayTeam": "norway",
+    "sportsbookA": {
+      "homeOdds": 12.5,
+      "drawOdds": 7,
+      "awayOdds": 1.23,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.169Z",
+      "_id": "6a20c0646d2cac96f4e38f86"
+    },
+    "sportsbookB": {
+      "homeOdds": 12,
+      "drawOdds": 6.5,
+      "awayOdds": 1.22,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.171Z",
+      "_id": "6a20c0646d2cac96f4e38f8a"
+    },
+    "sharpOdds": {
+      "homeOdds": 13.94,
+      "drawOdds": 7.24,
+      "awayOdds": 1.21,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f87"
+    },
+    "eventDate": "2026-06-16T22:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.172Z",
+    "createdAt": "2026-06-02T23:37:39.142Z",
+    "updatedAt": "2026-06-04T00:01:40.172Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861ea",
+    "homeTeam": "Argentina",
+    "awayTeam": "Algeria",
+    "normalizedHomeTeam": "argentina",
+    "normalizedAwayTeam": "algeria",
+    "sportsbookA": {
+      "homeOdds": 1.4,
+      "drawOdds": 4.8,
+      "awayOdds": 9,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.172Z",
+      "_id": "6a20c0646d2cac96f4e38f8d"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.4,
+      "drawOdds": 4.5,
+      "awayOdds": 8,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.175Z",
+      "_id": "6a20c0646d2cac96f4e38f91"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.4,
+      "drawOdds": 4.62,
+      "awayOdds": 9.06,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f8e"
+    },
+    "eventDate": "2026-06-17T01:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.176Z",
+    "createdAt": "2026-06-02T23:37:39.147Z",
+    "updatedAt": "2026-06-04T00:01:40.176Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861f2",
+    "homeTeam": "Austria",
+    "awayTeam": "Jordan",
+    "normalizedHomeTeam": "austria",
+    "normalizedAwayTeam": "jordan",
+    "sportsbookA": {
+      "homeOdds": 1.32,
+      "drawOdds": 5.75,
+      "awayOdds": 10,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.182Z",
+      "_id": "6a20c0646d2cac96f4e38f94"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.33,
+      "drawOdds": 5.25,
+      "awayOdds": 9,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.188Z",
+      "_id": "6a20c0646d2cac96f4e38f98"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.33,
+      "drawOdds": 5.62,
+      "awayOdds": 9.28,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f95"
+    },
+    "eventDate": "2026-06-17T04:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.189Z",
+    "createdAt": "2026-06-02T23:37:39.151Z",
+    "updatedAt": "2026-06-04T00:01:40.190Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893861fa",
+    "homeTeam": "Portugal",
+    "awayTeam": "DR Congo",
+    "normalizedHomeTeam": "portugal",
+    "normalizedAwayTeam": "dr congo",
+    "sportsbookA": {
+      "homeOdds": 1.28,
+      "drawOdds": 6,
+      "awayOdds": 11.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.191Z",
+      "_id": "6a20c0646d2cac96f4e38f9b"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.25,
+      "drawOdds": 6,
+      "awayOdds": 11,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.193Z",
+      "_id": "6a20c0646d2cac96f4e38f9f"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.29,
+      "drawOdds": 5.74,
+      "awayOdds": 11.08,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38f9c"
+    },
+    "eventDate": "2026-06-17T17:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.194Z",
+    "createdAt": "2026-06-02T23:37:39.155Z",
+    "updatedAt": "2026-06-04T00:01:40.195Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386202",
+    "homeTeam": "England",
+    "awayTeam": "Croatia",
+    "normalizedHomeTeam": "england",
+    "normalizedAwayTeam": "croatia",
+    "sportsbookA": {
+      "homeOdds": 1.76,
+      "drawOdds": 3.75,
+      "awayOdds": 4.9,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.195Z",
+      "_id": "6a20c0646d2cac96f4e38fa2"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.73,
+      "drawOdds": 3.7,
+      "awayOdds": 4.8,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.197Z",
+      "_id": "6a20c0646d2cac96f4e38fa6"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.73,
+      "drawOdds": 3.93,
+      "awayOdds": 4.89,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38fa3"
+    },
+    "eventDate": "2026-06-17T20:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.198Z",
+    "createdAt": "2026-06-02T23:37:39.159Z",
+    "updatedAt": "2026-06-04T00:01:40.199Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938620a",
+    "homeTeam": "Ghana",
+    "awayTeam": "Panama",
+    "normalizedHomeTeam": "ghana",
+    "normalizedAwayTeam": "panama",
+    "sportsbookA": {
+      "homeOdds": 2.1,
+      "drawOdds": 3.45,
+      "awayOdds": 3.7,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.199Z",
+      "_id": "6a20c0646d2cac96f4e38fa9"
+    },
+    "sportsbookB": {
+      "homeOdds": 2,
+      "drawOdds": 3.3,
+      "awayOdds": 3.75,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.201Z",
+      "_id": "6a20c0646d2cac96f4e38fad"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.06,
+      "drawOdds": 3.61,
+      "awayOdds": 3.69,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38faa"
+    },
+    "eventDate": "2026-06-17T23:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.202Z",
+    "createdAt": "2026-06-02T23:37:39.162Z",
+    "updatedAt": "2026-06-04T00:01:40.203Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386212",
+    "homeTeam": "Uzbekistan",
+    "awayTeam": "Colombia",
+    "normalizedHomeTeam": "uzbekistan",
+    "normalizedAwayTeam": "colombia",
+    "sportsbookA": {
+      "homeOdds": 8,
+      "drawOdds": 4.7,
+      "awayOdds": 1.43,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.203Z",
+      "_id": "6a20c0646d2cac96f4e38fb0"
+    },
+    "sportsbookB": {
+      "homeOdds": 7.5,
+      "drawOdds": 4.5,
+      "awayOdds": 1.4,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.205Z",
+      "_id": "6a20c0646d2cac96f4e38fb4"
+    },
+    "sharpOdds": {
+      "homeOdds": 8.53,
+      "drawOdds": 4.6,
+      "awayOdds": 1.42,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38fb1"
+    },
+    "eventDate": "2026-06-18T02:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.206Z",
+    "createdAt": "2026-06-02T23:37:39.167Z",
+    "updatedAt": "2026-06-04T00:01:40.207Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938621a",
+    "homeTeam": "Czech Republic",
+    "awayTeam": "South Africa",
+    "normalizedHomeTeam": "czech republic",
+    "normalizedAwayTeam": "south africa",
+    "sportsbookA": {
+      "homeOdds": 2.04,
+      "drawOdds": 3.3,
+      "awayOdds": 4.1,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.207Z",
+      "_id": "6a20c0646d2cac96f4e38fb7"
+    },
+    "sportsbookB": {
+      "homeOdds": 2,
+      "drawOdds": 3.3,
+      "awayOdds": 3.9,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.210Z",
+      "_id": "6a20c0646d2cac96f4e38fbb"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.96,
+      "drawOdds": 3.26,
+      "awayOdds": 3.98,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38fb8"
+    },
+    "eventDate": "2026-06-18T16:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.210Z",
+    "createdAt": "2026-06-02T23:37:39.172Z",
+    "updatedAt": "2026-06-04T00:01:40.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386222",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Bosnia & Herzegovina",
+    "normalizedHomeTeam": "switzerland",
+    "normalizedAwayTeam": "bosnia herzegovina",
+    "sportsbookA": {
+      "homeOdds": 1.6,
+      "drawOdds": 4,
+      "awayOdds": 6.25,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.211Z",
+      "_id": "6a20c0646d2cac96f4e38fbe"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.57,
+      "drawOdds": 4,
+      "awayOdds": 5.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.213Z",
+      "_id": "6a20c0646d2cac96f4e38fc2"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.58,
+      "drawOdds": 3.96,
+      "awayOdds": 5.29,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38fbf"
+    },
+    "eventDate": "2026-06-18T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.214Z",
+    "createdAt": "2026-06-02T23:37:39.176Z",
+    "updatedAt": "2026-06-04T00:01:40.214Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938622a",
+    "homeTeam": "Canada",
+    "awayTeam": "Qatar",
+    "normalizedHomeTeam": "canada",
+    "normalizedAwayTeam": "qatar",
+    "sportsbookA": {
+      "homeOdds": 1.35,
+      "drawOdds": 5,
+      "awayOdds": 11,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.215Z",
+      "_id": "6a20c0646d2cac96f4e38fc5"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.33,
+      "drawOdds": 5,
+      "awayOdds": 9,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.217Z",
+      "_id": "6a20c0646d2cac96f4e38fc9"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.31,
+      "drawOdds": 4.84,
+      "awayOdds": 9.26,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38fc6"
+    },
+    "eventDate": "2026-06-18T22:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.217Z",
+    "createdAt": "2026-06-02T23:37:39.180Z",
+    "updatedAt": "2026-06-04T00:01:40.218Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386232",
+    "homeTeam": "Mexico",
+    "awayTeam": "South Korea",
+    "normalizedHomeTeam": "mexico",
+    "normalizedAwayTeam": "south korea",
+    "sportsbookA": {
+      "homeOdds": 1.83,
+      "drawOdds": 3.5,
+      "awayOdds": 4.9,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.218Z",
+      "_id": "6a20c0646d2cac96f4e38fcc"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.83,
+      "drawOdds": 3.4,
+      "awayOdds": 4.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.220Z",
+      "_id": "6a20c0646d2cac96f4e38fd0"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.79,
+      "drawOdds": 3.49,
+      "awayOdds": 4.41,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38fcd"
+    },
+    "eventDate": "2026-06-19T01:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.221Z",
+    "createdAt": "2026-06-02T23:37:39.184Z",
+    "updatedAt": "2026-06-04T00:01:40.222Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938623a",
+    "homeTeam": "USA",
+    "awayTeam": "Australia",
+    "normalizedHomeTeam": "usa",
+    "normalizedAwayTeam": "australia",
+    "sportsbookA": {
+      "homeOdds": 1.76,
+      "drawOdds": 3.5,
+      "awayOdds": 5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.222Z",
+      "_id": "6a20c0646d2cac96f4e38fd3"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.75,
+      "drawOdds": 3.6,
+      "awayOdds": 4.6,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.225Z",
+      "_id": "6a20c0646d2cac96f4e38fd7"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.72,
+      "drawOdds": 3.92,
+      "awayOdds": 4.27,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38fd4"
+    },
+    "eventDate": "2026-06-19T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.226Z",
+    "createdAt": "2026-06-02T23:37:39.188Z",
+    "updatedAt": "2026-06-04T00:01:40.226Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386242",
+    "homeTeam": "Scotland",
+    "awayTeam": "Morocco",
+    "normalizedHomeTeam": "scotland",
+    "normalizedAwayTeam": "morocco",
+    "sportsbookA": {
+      "homeOdds": 4.2,
+      "drawOdds": 3.3,
+      "awayOdds": 2,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.227Z",
+      "_id": "6a20c0646d2cac96f4e38fda"
+    },
+    "sportsbookB": {
+      "homeOdds": 3.75,
+      "drawOdds": 3.3,
+      "awayOdds": 2,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.229Z",
+      "_id": "6a20c0646d2cac96f4e38fde"
+    },
+    "sharpOdds": {
+      "homeOdds": 4.04,
+      "drawOdds": 3.18,
+      "awayOdds": 1.97,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38fdb"
+    },
+    "eventDate": "2026-06-19T22:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.230Z",
+    "createdAt": "2026-06-02T23:37:39.191Z",
+    "updatedAt": "2026-06-04T00:01:40.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938624a",
+    "homeTeam": "Brazil",
+    "awayTeam": "Haiti",
+    "normalizedHomeTeam": "brazil",
+    "normalizedAwayTeam": "haiti",
+    "sportsbookA": {
+      "homeOdds": 1.06,
+      "drawOdds": 14,
+      "awayOdds": 46,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.231Z",
+      "_id": "6a20c0646d2cac96f4e38fe1"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.08,
+      "drawOdds": 12,
+      "awayOdds": 26,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.233Z",
+      "_id": "6a20c0646d2cac96f4e38fe5"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.08,
+      "drawOdds": 12.75,
+      "awayOdds": 38,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0646d2cac96f4e38fe2"
+    },
+    "eventDate": "2026-06-20T01:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.235Z",
+    "createdAt": "2026-06-02T23:37:39.195Z",
+    "updatedAt": "2026-06-04T00:01:40.235Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386252",
+    "homeTeam": "Turkey",
+    "awayTeam": "Paraguay",
+    "normalizedHomeTeam": "turkey",
+    "normalizedAwayTeam": "paraguay",
+    "sportsbookA": {
+      "homeOdds": 2.3,
+      "drawOdds": 3.1,
+      "awayOdds": 3.4,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.236Z",
+      "_id": "6a20c0646d2cac96f4e38fe8"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.2,
+      "drawOdds": 3.2,
+      "awayOdds": 3.3,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.237Z",
+      "_id": "6a20c0646d2cac96f4e38fec"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.22,
+      "drawOdds": 3.11,
+      "awayOdds": 3.39,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38fe9"
+    },
+    "eventDate": "2026-06-20T03:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.238Z",
+    "createdAt": "2026-06-02T23:37:39.199Z",
+    "updatedAt": "2026-06-04T00:01:40.238Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938625a",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Sweden",
+    "normalizedHomeTeam": "netherlands",
+    "normalizedAwayTeam": "sweden",
+    "sportsbookA": {
+      "homeOdds": 1.64,
+      "drawOdds": 4,
+      "awayOdds": 5.25,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.239Z",
+      "_id": "6a20c0646d2cac96f4e38fef"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.67,
+      "drawOdds": 3.9,
+      "awayOdds": 5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.241Z",
+      "_id": "6a20c0646d2cac96f4e38ff3"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.61,
+      "drawOdds": 3.98,
+      "awayOdds": 4.96,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38ff0"
+    },
+    "eventDate": "2026-06-20T17:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.242Z",
+    "createdAt": "2026-06-02T23:37:39.205Z",
+    "updatedAt": "2026-06-04T00:01:40.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386262",
+    "homeTeam": "Germany",
+    "awayTeam": "Ivory Coast",
+    "normalizedHomeTeam": "germany",
+    "normalizedAwayTeam": "ivory coast",
+    "sportsbookA": {
+      "homeOdds": 1.54,
+      "drawOdds": 4.25,
+      "awayOdds": 6,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.243Z",
+      "_id": "6a20c0646d2cac96f4e38ff6"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.53,
+      "drawOdds": 4.2,
+      "awayOdds": 5.75,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.245Z",
+      "_id": "6a20c0646d2cac96f4e38ffa"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.51,
+      "drawOdds": 4.31,
+      "awayOdds": 5.59,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38ff7"
+    },
+    "eventDate": "2026-06-20T20:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.246Z",
+    "createdAt": "2026-06-02T23:37:39.209Z",
+    "updatedAt": "2026-06-04T00:01:40.246Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938626a",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Curaçao",
+    "normalizedHomeTeam": "ecuador",
+    "normalizedAwayTeam": "curacao",
+    "sportsbookA": {
+      "homeOdds": 1.25,
+      "drawOdds": 6,
+      "awayOdds": 12,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.247Z",
+      "_id": "6a20c0646d2cac96f4e38ffd"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.25,
+      "drawOdds": 6,
+      "awayOdds": 12,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.249Z",
+      "_id": "6a20c0646d2cac96f4e39001"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.22,
+      "drawOdds": 6.46,
+      "awayOdds": 9.83,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e38ffe"
+    },
+    "eventDate": "2026-06-21T00:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.250Z",
+    "createdAt": "2026-06-02T23:37:39.213Z",
+    "updatedAt": "2026-06-04T00:01:40.250Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386272",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Japan",
+    "normalizedHomeTeam": "tunisia",
+    "normalizedAwayTeam": "japan",
+    "sportsbookA": {
+      "homeOdds": 4.75,
+      "drawOdds": 3.35,
+      "awayOdds": 1.85,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.251Z",
+      "_id": "6a20c0646d2cac96f4e39004"
+    },
+    "sportsbookB": {
+      "homeOdds": 4.6,
+      "drawOdds": 3.4,
+      "awayOdds": 1.8,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.253Z",
+      "_id": "6a20c0646d2cac96f4e39008"
+    },
+    "sharpOdds": {
+      "homeOdds": 4.81,
+      "drawOdds": 3.43,
+      "awayOdds": 1.75,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39005"
+    },
+    "eventDate": "2026-06-21T04:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.254Z",
+    "createdAt": "2026-06-02T23:37:39.216Z",
+    "updatedAt": "2026-06-04T00:01:40.254Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938627a",
+    "homeTeam": "Spain",
+    "awayTeam": "Saudi Arabia",
+    "normalizedHomeTeam": "spain",
+    "normalizedAwayTeam": "saudi arabia",
+    "sportsbookA": {
+      "homeOdds": 1.12,
+      "drawOdds": 9,
+      "awayOdds": 23,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.255Z",
+      "_id": "6a20c0646d2cac96f4e3900b"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.12,
+      "drawOdds": 9.5,
+      "awayOdds": 19,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.257Z",
+      "_id": "6a20c0646d2cac96f4e3900f"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.09,
+      "drawOdds": 9.98,
+      "awayOdds": 20.81,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e3900c"
+    },
+    "eventDate": "2026-06-21T16:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.258Z",
+    "createdAt": "2026-06-02T23:37:39.220Z",
+    "updatedAt": "2026-06-04T00:01:40.258Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386282",
+    "homeTeam": "Belgium",
+    "awayTeam": "Iran",
+    "normalizedHomeTeam": "belgium",
+    "normalizedAwayTeam": "iran",
+    "sportsbookA": {
+      "homeOdds": 1.44,
+      "drawOdds": 4.5,
+      "awayOdds": 7.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.259Z",
+      "_id": "6a20c0646d2cac96f4e39012"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.44,
+      "drawOdds": 4.5,
+      "awayOdds": 7.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.261Z",
+      "_id": "6a20c0646d2cac96f4e39016"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.38,
+      "drawOdds": 4.55,
+      "awayOdds": 7.59,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39013"
+    },
+    "eventDate": "2026-06-21T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.262Z",
+    "createdAt": "2026-06-02T23:37:39.225Z",
+    "updatedAt": "2026-06-04T00:01:40.262Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938628a",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Cape Verde",
+    "normalizedHomeTeam": "uruguay",
+    "normalizedAwayTeam": "cape verde",
+    "sportsbookA": {
+      "homeOdds": 1.44,
+      "drawOdds": 4.5,
+      "awayOdds": 7,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.263Z",
+      "_id": "6a20c0646d2cac96f4e39019"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.44,
+      "drawOdds": 4.4,
+      "awayOdds": 7,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.266Z",
+      "_id": "6a20c0646d2cac96f4e3901d"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.4,
+      "drawOdds": 4.42,
+      "awayOdds": 7.4,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e3901a"
+    },
+    "eventDate": "2026-06-21T22:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.267Z",
+    "createdAt": "2026-06-02T23:37:39.229Z",
+    "updatedAt": "2026-06-04T00:01:40.267Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386292",
+    "homeTeam": "New Zealand",
+    "awayTeam": "Egypt",
+    "normalizedHomeTeam": "new zealand",
+    "normalizedAwayTeam": "egypt",
+    "sportsbookA": {
+      "homeOdds": 5,
+      "drawOdds": 3.6,
+      "awayOdds": 1.75,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.268Z",
+      "_id": "6a20c0646d2cac96f4e39020"
+    },
+    "sportsbookB": {
+      "homeOdds": 5.5,
+      "drawOdds": 3.6,
+      "awayOdds": 1.67,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.270Z",
+      "_id": "6a20c0646d2cac96f4e39024"
+    },
+    "sharpOdds": {
+      "homeOdds": 4.45,
+      "drawOdds": 3.85,
+      "awayOdds": 1.7,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39021"
+    },
+    "eventDate": "2026-06-22T01:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.271Z",
+    "createdAt": "2026-06-02T23:37:39.233Z",
+    "updatedAt": "2026-06-04T00:01:40.271Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938629a",
+    "homeTeam": "Argentina",
+    "awayTeam": "Austria",
+    "normalizedHomeTeam": "argentina",
+    "normalizedAwayTeam": "austria",
+    "sportsbookA": {
+      "homeOdds": 1.65,
+      "drawOdds": 3.75,
+      "awayOdds": 5.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.272Z",
+      "_id": "6a20c0646d2cac96f4e39027"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.65,
+      "drawOdds": 3.7,
+      "awayOdds": 5.25,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.274Z",
+      "_id": "6a20c0646d2cac96f4e3902b"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.64,
+      "drawOdds": 3.67,
+      "awayOdds": 5.28,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39028"
+    },
+    "eventDate": "2026-06-22T17:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.276Z",
+    "createdAt": "2026-06-02T23:37:39.237Z",
+    "updatedAt": "2026-06-04T00:01:40.276Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862a2",
+    "homeTeam": "France",
+    "awayTeam": "Iraq",
+    "normalizedHomeTeam": "france",
+    "normalizedAwayTeam": "iraq",
+    "sportsbookA": {
+      "homeOdds": 1.11,
+      "drawOdds": 9,
+      "awayOdds": 26,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.277Z",
+      "_id": "6a20c0646d2cac96f4e3902e"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.13,
+      "drawOdds": 8.5,
+      "awayOdds": 19,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.279Z",
+      "_id": "6a20c0646d2cac96f4e39032"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.14,
+      "drawOdds": 7.23,
+      "awayOdds": 20.42,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e3902f"
+    },
+    "eventDate": "2026-06-22T21:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.280Z",
+    "createdAt": "2026-06-02T23:37:39.240Z",
+    "updatedAt": "2026-06-04T00:01:40.281Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862aa",
+    "homeTeam": "Norway",
+    "awayTeam": "Senegal",
+    "normalizedHomeTeam": "norway",
+    "normalizedAwayTeam": "senegal",
+    "sportsbookA": {
+      "homeOdds": 2.15,
+      "drawOdds": 3.25,
+      "awayOdds": 3.6,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.281Z",
+      "_id": "6a20c0646d2cac96f4e39035"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.1,
+      "drawOdds": 3.4,
+      "awayOdds": 3.4,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.284Z",
+      "_id": "6a20c0646d2cac96f4e39039"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.04,
+      "drawOdds": 3.52,
+      "awayOdds": 3.4,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39036"
+    },
+    "eventDate": "2026-06-23T00:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.285Z",
+    "createdAt": "2026-06-02T23:37:39.244Z",
+    "updatedAt": "2026-06-04T00:01:40.285Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862b2",
+    "homeTeam": "Jordan",
+    "awayTeam": "Algeria",
+    "normalizedHomeTeam": "jordan",
+    "normalizedAwayTeam": "algeria",
+    "sportsbookA": {
+      "homeOdds": 5.75,
+      "drawOdds": 4.1,
+      "awayOdds": 1.56,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.285Z",
+      "_id": "6a20c0646d2cac96f4e3903c"
+    },
+    "sportsbookB": {
+      "homeOdds": 5.5,
+      "drawOdds": 3.9,
+      "awayOdds": 1.6,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.287Z",
+      "_id": "6a20c0646d2cac96f4e39040"
+    },
+    "sharpOdds": {
+      "homeOdds": 5.68,
+      "drawOdds": 4,
+      "awayOdds": 1.54,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e3903d"
+    },
+    "eventDate": "2026-06-23T03:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.288Z",
+    "createdAt": "2026-06-02T23:37:39.248Z",
+    "updatedAt": "2026-06-04T00:01:40.289Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862ba",
+    "homeTeam": "Portugal",
+    "awayTeam": "Uzbekistan",
+    "normalizedHomeTeam": "portugal",
+    "normalizedAwayTeam": "uzbekistan",
+    "sportsbookA": {
+      "homeOdds": 1.22,
+      "drawOdds": 6.5,
+      "awayOdds": 13,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.290Z",
+      "_id": "6a20c0646d2cac96f4e39043"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.25,
+      "drawOdds": 6,
+      "awayOdds": 10,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.293Z",
+      "_id": "6a20c0646d2cac96f4e39047"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.22,
+      "drawOdds": 6.21,
+      "awayOdds": 10.53,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39044"
+    },
+    "eventDate": "2026-06-23T17:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.294Z",
+    "createdAt": "2026-06-02T23:37:39.251Z",
+    "updatedAt": "2026-06-04T00:01:40.294Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862c2",
+    "homeTeam": "England",
+    "awayTeam": "Ghana",
+    "normalizedHomeTeam": "england",
+    "normalizedAwayTeam": "ghana",
+    "sportsbookA": {
+      "homeOdds": 1.35,
+      "drawOdds": 5,
+      "awayOdds": 9,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.295Z",
+      "_id": "6a20c0646d2cac96f4e3904a"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.33,
+      "drawOdds": 5.25,
+      "awayOdds": 9,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.296Z",
+      "_id": "6a20c0646d2cac96f4e3904e"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.3,
+      "drawOdds": 5.3,
+      "awayOdds": 8.61,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e3904b"
+    },
+    "eventDate": "2026-06-23T20:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.297Z",
+    "createdAt": "2026-06-02T23:37:39.256Z",
+    "updatedAt": "2026-06-04T00:01:40.297Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862ca",
+    "homeTeam": "Panama",
+    "awayTeam": "Croatia",
+    "normalizedHomeTeam": "panama",
+    "normalizedAwayTeam": "croatia",
+    "sportsbookA": {
+      "homeOdds": 7,
+      "drawOdds": 4.1,
+      "awayOdds": 1.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.298Z",
+      "_id": "6a20c0646d2cac96f4e39051"
+    },
+    "sportsbookB": {
+      "homeOdds": 6.5,
+      "drawOdds": 4,
+      "awayOdds": 1.53,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.300Z",
+      "_id": "6a20c0646d2cac96f4e39055"
+    },
+    "sharpOdds": {
+      "homeOdds": 6.84,
+      "drawOdds": 3.86,
+      "awayOdds": 1.49,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39052"
+    },
+    "eventDate": "2026-06-23T23:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.301Z",
+    "createdAt": "2026-06-02T23:37:39.260Z",
+    "updatedAt": "2026-06-04T00:01:40.301Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862d2",
+    "homeTeam": "Colombia",
+    "awayTeam": "DR Congo",
+    "normalizedHomeTeam": "colombia",
+    "normalizedAwayTeam": "dr congo",
+    "sportsbookA": {
+      "homeOdds": 1.45,
+      "drawOdds": 4.3,
+      "awayOdds": 7.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.302Z",
+      "_id": "6a20c0646d2cac96f4e39058"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.5,
+      "drawOdds": 4,
+      "awayOdds": 7,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.304Z",
+      "_id": "6a20c0646d2cac96f4e3905c"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.44,
+      "drawOdds": 4.19,
+      "awayOdds": 7.08,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39059"
+    },
+    "eventDate": "2026-06-24T02:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.305Z",
+    "createdAt": "2026-06-02T23:37:39.263Z",
+    "updatedAt": "2026-06-04T00:01:40.305Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862da",
+    "homeTeam": "Bosnia & Herzegovina",
+    "awayTeam": "Qatar",
+    "normalizedHomeTeam": "bosnia herzegovina",
+    "normalizedAwayTeam": "qatar",
+    "sportsbookA": {
+      "homeOdds": 1.57,
+      "drawOdds": 4,
+      "awayOdds": 6,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.306Z",
+      "_id": "6a20c0646d2cac96f4e3905f"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.6,
+      "drawOdds": 3.8,
+      "awayOdds": 5.75,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.308Z",
+      "_id": "6a20c0646d2cac96f4e39063"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.58,
+      "drawOdds": 3.79,
+      "awayOdds": 5.62,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39060"
+    },
+    "eventDate": "2026-06-24T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.310Z",
+    "createdAt": "2026-06-02T23:37:39.267Z",
+    "updatedAt": "2026-06-04T00:01:40.310Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862e2",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Canada",
+    "normalizedHomeTeam": "switzerland",
+    "normalizedAwayTeam": "canada",
+    "sportsbookA": {
+      "homeOdds": 2,
+      "drawOdds": 3.4,
+      "awayOdds": 3.8,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.311Z",
+      "_id": "6a20c0646d2cac96f4e39066"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.1,
+      "drawOdds": 3.3,
+      "awayOdds": 3.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.313Z",
+      "_id": "6a20c0646d2cac96f4e3906a"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.1,
+      "drawOdds": 3.29,
+      "awayOdds": 3.48,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39067"
+    },
+    "eventDate": "2026-06-24T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.314Z",
+    "createdAt": "2026-06-02T23:37:39.271Z",
+    "updatedAt": "2026-06-04T00:01:40.314Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862ea",
+    "homeTeam": "Scotland",
+    "awayTeam": "Brazil",
+    "normalizedHomeTeam": "scotland",
+    "normalizedAwayTeam": "brazil",
+    "sportsbookA": {
+      "homeOdds": 8,
+      "drawOdds": 5,
+      "awayOdds": 1.36,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.314Z",
+      "_id": "6a20c0646d2cac96f4e3906d"
+    },
+    "sportsbookB": {
+      "homeOdds": 7.5,
+      "drawOdds": 4.8,
+      "awayOdds": 1.4,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.317Z",
+      "_id": "6a20c0646d2cac96f4e39071"
+    },
+    "sharpOdds": {
+      "homeOdds": 7.09,
+      "drawOdds": 4.62,
+      "awayOdds": 1.39,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e3906e"
+    },
+    "eventDate": "2026-06-24T22:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.318Z",
+    "createdAt": "2026-06-02T23:37:39.275Z",
+    "updatedAt": "2026-06-04T00:01:40.318Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862f2",
+    "homeTeam": "Morocco",
+    "awayTeam": "Haiti",
+    "normalizedHomeTeam": "morocco",
+    "normalizedAwayTeam": "haiti",
+    "sportsbookA": {
+      "homeOdds": 1.24,
+      "drawOdds": 6.25,
+      "awayOdds": 12,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.318Z",
+      "_id": "6a20c0646d2cac96f4e39074"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.25,
+      "drawOdds": 6,
+      "awayOdds": 12,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.320Z",
+      "_id": "6a20c0646d2cac96f4e39078"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.2,
+      "drawOdds": 6.03,
+      "awayOdds": 12.28,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39075"
+    },
+    "eventDate": "2026-06-24T22:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.321Z",
+    "createdAt": "2026-06-02T23:37:39.279Z",
+    "updatedAt": "2026-06-04T00:01:40.321Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e61893862fa",
+    "homeTeam": "Czech Republic",
+    "awayTeam": "Mexico",
+    "normalizedHomeTeam": "czech republic",
+    "normalizedAwayTeam": "mexico",
+    "sportsbookA": {
+      "homeOdds": 4.1,
+      "drawOdds": 3.45,
+      "awayOdds": 1.87,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.322Z",
+      "_id": "6a20c0646d2cac96f4e3907b"
+    },
+    "sportsbookB": {
+      "homeOdds": 4,
+      "drawOdds": 3.4,
+      "awayOdds": 1.91,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.324Z",
+      "_id": "6a20c0646d2cac96f4e3907f"
+    },
+    "sharpOdds": {
+      "homeOdds": 4.52,
+      "drawOdds": 3.54,
+      "awayOdds": 1.76,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e3907c"
+    },
+    "eventDate": "2026-06-25T01:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.325Z",
+    "createdAt": "2026-06-02T23:37:39.283Z",
+    "updatedAt": "2026-06-04T00:01:40.325Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386302",
+    "homeTeam": "South Africa",
+    "awayTeam": "South Korea",
+    "normalizedHomeTeam": "south africa",
+    "normalizedAwayTeam": "south korea",
+    "sportsbookA": {
+      "homeOdds": 3.5,
+      "drawOdds": 3.25,
+      "awayOdds": 2.08,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.326Z",
+      "_id": "6a20c0646d2cac96f4e39082"
+    },
+    "sportsbookB": {
+      "homeOdds": 3.75,
+      "drawOdds": 3.4,
+      "awayOdds": 2,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.328Z",
+      "_id": "6a20c0646d2cac96f4e39086"
+    },
+    "sharpOdds": {
+      "homeOdds": 4.02,
+      "drawOdds": 3.38,
+      "awayOdds": 1.91,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39083"
+    },
+    "eventDate": "2026-06-25T01:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.329Z",
+    "createdAt": "2026-06-02T23:37:39.287Z",
+    "updatedAt": "2026-06-04T00:01:40.329Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938630a",
+    "homeTeam": "Curaçao",
+    "awayTeam": "Ivory Coast",
+    "normalizedHomeTeam": "curacao",
+    "normalizedAwayTeam": "ivory coast",
+    "sportsbookA": {
+      "homeOdds": 9,
+      "drawOdds": 5.2,
+      "awayOdds": 1.3,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.330Z",
+      "_id": "6a20c0646d2cac96f4e39089"
+    },
+    "sportsbookB": {
+      "homeOdds": 8.5,
+      "drawOdds": 5.25,
+      "awayOdds": 1.33,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.332Z",
+      "_id": "6a20c0646d2cac96f4e3908d"
+    },
+    "sharpOdds": {
+      "homeOdds": 8,
+      "drawOdds": 5.34,
+      "awayOdds": 1.31,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e3908a"
+    },
+    "eventDate": "2026-06-25T20:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.333Z",
+    "createdAt": "2026-06-02T23:37:39.291Z",
+    "updatedAt": "2026-06-04T00:01:40.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386312",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Germany",
+    "normalizedHomeTeam": "ecuador",
+    "normalizedAwayTeam": "germany",
+    "sportsbookA": {
+      "homeOdds": 4.9,
+      "drawOdds": 3.75,
+      "awayOdds": 1.66,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.334Z",
+      "_id": "6a20c0646d2cac96f4e39090"
+    },
+    "sportsbookB": {
+      "homeOdds": 4.8,
+      "drawOdds": 3.9,
+      "awayOdds": 1.67,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.336Z",
+      "_id": "6a20c0646d2cac96f4e39094"
+    },
+    "sharpOdds": {
+      "homeOdds": 4.87,
+      "drawOdds": 3.83,
+      "awayOdds": 1.65,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39091"
+    },
+    "eventDate": "2026-06-25T20:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.337Z",
+    "createdAt": "2026-06-02T23:37:39.295Z",
+    "updatedAt": "2026-06-04T00:01:40.337Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938631a",
+    "homeTeam": "Japan",
+    "awayTeam": "Sweden",
+    "normalizedHomeTeam": "japan",
+    "normalizedAwayTeam": "sweden",
+    "sportsbookA": {
+      "homeOdds": 2.05,
+      "drawOdds": 3.35,
+      "awayOdds": 3.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.337Z",
+      "_id": "6a20c0646d2cac96f4e39097"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.1,
+      "drawOdds": 3.4,
+      "awayOdds": 3.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.339Z",
+      "_id": "6a20c0646d2cac96f4e3909b"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.04,
+      "drawOdds": 3.38,
+      "awayOdds": 3.56,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39098"
+    },
+    "eventDate": "2026-06-25T23:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.340Z",
+    "createdAt": "2026-06-02T23:37:39.299Z",
+    "updatedAt": "2026-06-04T00:01:40.341Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386322",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Netherlands",
+    "normalizedHomeTeam": "tunisia",
+    "normalizedAwayTeam": "netherlands",
+    "sportsbookA": {
+      "homeOdds": 6,
+      "drawOdds": 4,
+      "awayOdds": 1.51,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.341Z",
+      "_id": "6a20c0646d2cac96f4e3909e"
+    },
+    "sportsbookB": {
+      "homeOdds": 6,
+      "drawOdds": 4,
+      "awayOdds": 1.53,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.343Z",
+      "_id": "6a20c0646d2cac96f4e390a2"
+    },
+    "sharpOdds": {
+      "homeOdds": 6.19,
+      "drawOdds": 4.2,
+      "awayOdds": 1.48,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e3909f"
+    },
+    "eventDate": "2026-06-25T23:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.344Z",
+    "createdAt": "2026-06-02T23:37:39.303Z",
+    "updatedAt": "2026-06-04T00:01:40.344Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938632a",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Australia",
+    "normalizedHomeTeam": "paraguay",
+    "normalizedAwayTeam": "australia",
+    "sportsbookA": {
+      "homeOdds": 2.14,
+      "drawOdds": 3.2,
+      "awayOdds": 3.4,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.345Z",
+      "_id": "6a20c0646d2cac96f4e390a5"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.15,
+      "drawOdds": 3.25,
+      "awayOdds": 3.4,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.347Z",
+      "_id": "6a20c0646d2cac96f4e390a9"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.19,
+      "drawOdds": 3.13,
+      "awayOdds": 3.45,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390a6"
+    },
+    "eventDate": "2026-06-26T02:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.348Z",
+    "createdAt": "2026-06-02T23:37:39.308Z",
+    "updatedAt": "2026-06-04T00:01:40.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386332",
+    "homeTeam": "Turkey",
+    "awayTeam": "USA",
+    "normalizedHomeTeam": "turkey",
+    "normalizedAwayTeam": "usa",
+    "sportsbookA": {
+      "homeOdds": 2.7,
+      "drawOdds": 3.3,
+      "awayOdds": 2.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.349Z",
+      "_id": "6a20c0646d2cac96f4e390ac"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.7,
+      "drawOdds": 3.3,
+      "awayOdds": 2.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.351Z",
+      "_id": "6a20c0646d2cac96f4e390b0"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.66,
+      "drawOdds": 3.4,
+      "awayOdds": 2.53,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390ad"
+    },
+    "eventDate": "2026-06-26T02:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.351Z",
+    "createdAt": "2026-06-02T23:37:39.311Z",
+    "updatedAt": "2026-06-04T00:01:40.352Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938633a",
+    "homeTeam": "Norway",
+    "awayTeam": "France",
+    "normalizedHomeTeam": "norway",
+    "normalizedAwayTeam": "france",
+    "sportsbookA": {
+      "homeOdds": 4.25,
+      "drawOdds": 3.55,
+      "awayOdds": 1.79,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.352Z",
+      "_id": "6a20c0646d2cac96f4e390b3"
+    },
+    "sportsbookB": {
+      "homeOdds": 4.33,
+      "drawOdds": 3.6,
+      "awayOdds": 1.8,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.354Z",
+      "_id": "6a20c0646d2cac96f4e390b7"
+    },
+    "sharpOdds": {
+      "homeOdds": 4.28,
+      "drawOdds": 3.55,
+      "awayOdds": 1.8,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390b4"
+    },
+    "eventDate": "2026-06-26T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.355Z",
+    "createdAt": "2026-06-02T23:37:39.316Z",
+    "updatedAt": "2026-06-04T00:01:40.355Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386342",
+    "homeTeam": "Senegal",
+    "awayTeam": "Iraq",
+    "normalizedHomeTeam": "senegal",
+    "normalizedAwayTeam": "iraq",
+    "sportsbookA": {
+      "homeOdds": 1.4,
+      "drawOdds": 4.5,
+      "awayOdds": 7.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.356Z",
+      "_id": "6a20c0646d2cac96f4e390ba"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.44,
+      "drawOdds": 4.4,
+      "awayOdds": 7,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.358Z",
+      "_id": "6a20c0646d2cac96f4e390be"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.41,
+      "drawOdds": 4.38,
+      "awayOdds": 7.16,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390bb"
+    },
+    "eventDate": "2026-06-26T19:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.359Z",
+    "createdAt": "2026-06-02T23:37:39.319Z",
+    "updatedAt": "2026-06-04T00:01:40.359Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938634a",
+    "homeTeam": "Cape Verde",
+    "awayTeam": "Saudi Arabia",
+    "normalizedHomeTeam": "cape verde",
+    "normalizedAwayTeam": "saudi arabia",
+    "sportsbookA": {
+      "homeOdds": 2.6,
+      "drawOdds": 3.45,
+      "awayOdds": 2.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.360Z",
+      "_id": "6a20c0646d2cac96f4e390c1"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.6,
+      "drawOdds": 3.2,
+      "awayOdds": 2.75,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.362Z",
+      "_id": "6a20c0646d2cac96f4e390c5"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.43,
+      "drawOdds": 3.41,
+      "awayOdds": 2.77,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390c2"
+    },
+    "eventDate": "2026-06-27T00:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.363Z",
+    "createdAt": "2026-06-02T23:37:39.324Z",
+    "updatedAt": "2026-06-04T00:01:40.363Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386352",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Spain",
+    "normalizedHomeTeam": "uruguay",
+    "normalizedAwayTeam": "spain",
+    "sportsbookA": {
+      "homeOdds": 5,
+      "drawOdds": 3.9,
+      "awayOdds": 1.62,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.364Z",
+      "_id": "6a20c0646d2cac96f4e390c8"
+    },
+    "sportsbookB": {
+      "homeOdds": 5.25,
+      "drawOdds": 3.9,
+      "awayOdds": 1.61,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.366Z",
+      "_id": "6a20c0646d2cac96f4e390cc"
+    },
+    "sharpOdds": {
+      "homeOdds": 5.18,
+      "drawOdds": 3.88,
+      "awayOdds": 1.61,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390c9"
+    },
+    "eventDate": "2026-06-27T00:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.367Z",
+    "createdAt": "2026-06-02T23:37:39.327Z",
+    "updatedAt": "2026-06-04T00:01:40.367Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938635a",
+    "homeTeam": "New Zealand",
+    "awayTeam": "Belgium",
+    "normalizedHomeTeam": "new zealand",
+    "normalizedAwayTeam": "belgium",
+    "sportsbookA": {
+      "homeOdds": 9,
+      "drawOdds": 6,
+      "awayOdds": 1.26,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.368Z",
+      "_id": "6a20c0646d2cac96f4e390cf"
+    },
+    "sportsbookB": {
+      "homeOdds": 9,
+      "drawOdds": 5.25,
+      "awayOdds": 1.33,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.370Z",
+      "_id": "6a20c0646d2cac96f4e390d3"
+    },
+    "sharpOdds": {
+      "homeOdds": 8.39,
+      "drawOdds": 5.14,
+      "awayOdds": 1.31,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390d0"
+    },
+    "eventDate": "2026-06-27T03:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.370Z",
+    "createdAt": "2026-06-02T23:37:39.331Z",
+    "updatedAt": "2026-06-04T00:01:40.371Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386362",
+    "homeTeam": "Egypt",
+    "awayTeam": "Iran",
+    "normalizedHomeTeam": "egypt",
+    "normalizedAwayTeam": "iran",
+    "sportsbookA": {
+      "homeOdds": 2.4,
+      "drawOdds": 3,
+      "awayOdds": 3.1,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.371Z",
+      "_id": "6a20c0646d2cac96f4e390d6"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.25,
+      "drawOdds": 3,
+      "awayOdds": 3.4,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.373Z",
+      "_id": "6a20c0646d2cac96f4e390da"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.27,
+      "drawOdds": 2.96,
+      "awayOdds": 3.48,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390d7"
+    },
+    "eventDate": "2026-06-27T03:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.374Z",
+    "createdAt": "2026-06-02T23:37:39.334Z",
+    "updatedAt": "2026-06-04T00:01:40.374Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938636a",
+    "homeTeam": "Croatia",
+    "awayTeam": "Ghana",
+    "normalizedHomeTeam": "croatia",
+    "normalizedAwayTeam": "ghana",
+    "sportsbookA": {
+      "homeOdds": 1.75,
+      "drawOdds": 3.6,
+      "awayOdds": 4.5,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.375Z",
+      "_id": "6a20c0646d2cac96f4e390dd"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.73,
+      "drawOdds": 3.6,
+      "awayOdds": 5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.376Z",
+      "_id": "6a20c0646d2cac96f4e390e1"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.69,
+      "drawOdds": 3.62,
+      "awayOdds": 4.9,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390de"
+    },
+    "eventDate": "2026-06-27T21:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.377Z",
+    "createdAt": "2026-06-02T23:37:39.338Z",
+    "updatedAt": "2026-06-04T00:01:40.377Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386372",
+    "homeTeam": "Panama",
+    "awayTeam": "England",
+    "normalizedHomeTeam": "panama",
+    "normalizedAwayTeam": "england",
+    "sportsbookA": {
+      "homeOdds": 7.5,
+      "drawOdds": 6,
+      "awayOdds": 1.3,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.378Z",
+      "_id": "6a20c0646d2cac96f4e390e4"
+    },
+    "sportsbookB": {
+      "homeOdds": 8,
+      "drawOdds": 5.25,
+      "awayOdds": 1.33,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.380Z",
+      "_id": "6a20c0646d2cac96f4e390e8"
+    },
+    "sharpOdds": {
+      "homeOdds": 5.95,
+      "drawOdds": 6.58,
+      "awayOdds": 1.32,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390e5"
+    },
+    "eventDate": "2026-06-27T21:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.381Z",
+    "createdAt": "2026-06-02T23:37:39.342Z",
+    "updatedAt": "2026-06-04T00:01:40.381Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938637a",
+    "homeTeam": "Colombia",
+    "awayTeam": "Portugal",
+    "normalizedHomeTeam": "colombia",
+    "normalizedAwayTeam": "portugal",
+    "sportsbookA": {
+      "homeOdds": 3.4,
+      "drawOdds": 3.25,
+      "awayOdds": 2.14,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.381Z",
+      "_id": "6a20c0646d2cac96f4e390eb"
+    },
+    "sportsbookB": {
+      "homeOdds": 3.4,
+      "drawOdds": 3.3,
+      "awayOdds": 2.1,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.383Z",
+      "_id": "6a20c0646d2cac96f4e390ef"
+    },
+    "sharpOdds": {
+      "homeOdds": 3.39,
+      "drawOdds": 3.24,
+      "awayOdds": 2.16,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390ec"
+    },
+    "eventDate": "2026-06-27T23:30:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.384Z",
+    "createdAt": "2026-06-02T23:37:39.346Z",
+    "updatedAt": "2026-06-04T00:01:40.384Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386382",
+    "homeTeam": "DR Congo",
+    "awayTeam": "Uzbekistan",
+    "normalizedHomeTeam": "dr congo",
+    "normalizedAwayTeam": "uzbekistan",
+    "sportsbookA": {
+      "homeOdds": 2.48,
+      "drawOdds": 3.2,
+      "awayOdds": 2.8,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.384Z",
+      "_id": "6a20c0646d2cac96f4e390f2"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.4,
+      "drawOdds": 3.2,
+      "awayOdds": 3,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.386Z",
+      "_id": "6a20c0646d2cac96f4e390f6"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.29,
+      "drawOdds": 3.3,
+      "awayOdds": 3.08,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390f3"
+    },
+    "eventDate": "2026-06-27T23:30:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.387Z",
+    "createdAt": "2026-06-02T23:37:39.349Z",
+    "updatedAt": "2026-06-04T00:01:40.387Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e618938638a",
+    "homeTeam": "Algeria",
+    "awayTeam": "Austria",
+    "normalizedHomeTeam": "algeria",
+    "normalizedAwayTeam": "austria",
+    "sportsbookA": {
+      "homeOdds": 3.5,
+      "drawOdds": 3.25,
+      "awayOdds": 2.08,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.388Z",
+      "_id": "6a20c0646d2cac96f4e390f9"
+    },
+    "sportsbookB": {
+      "homeOdds": 3.2,
+      "drawOdds": 3.25,
+      "awayOdds": 2.25,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.389Z",
+      "_id": "6a20c0646d2cac96f4e390fd"
+    },
+    "sharpOdds": {
+      "homeOdds": 3.36,
+      "drawOdds": 2.98,
+      "awayOdds": 2.31,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e390fa"
+    },
+    "eventDate": "2026-06-28T02:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.390Z",
+    "createdAt": "2026-06-02T23:37:39.353Z",
+    "updatedAt": "2026-06-04T00:01:40.390Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1f694353f80e6189386392",
+    "homeTeam": "Jordan",
+    "awayTeam": "Argentina",
+    "normalizedHomeTeam": "jordan",
+    "normalizedAwayTeam": "argentina",
+    "sportsbookA": {
+      "homeOdds": 12,
+      "drawOdds": 7.5,
+      "awayOdds": 1.17,
+      "bookmakerKey": "unibet_nl",
+      "bookmakerName": "Unibet (NL)",
+      "scrapedAt": "2026-06-04T00:01:40.391Z",
+      "_id": "6a20c0646d2cac96f4e39100"
+    },
+    "sportsbookB": {
+      "homeOdds": 12,
+      "drawOdds": 6.5,
+      "awayOdds": 1.22,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:40.393Z",
+      "_id": "6a20c0646d2cac96f4e39104"
+    },
+    "sharpOdds": {
+      "homeOdds": 11.61,
+      "drawOdds": 6.57,
+      "awayOdds": 1.19,
+      "bookmakerKey": "pinnacle",
+      "bookmakerName": "Pinnacle",
+      "_id": "6a20c0646d2cac96f4e39101"
+    },
+    "eventDate": "2026-06-28T02:00:00.000Z",
+    "league": "fifa-world-cup",
+    "lastUpdated": "2026-06-04T00:01:40.394Z",
+    "createdAt": "2026-06-02T23:37:39.357Z",
+    "updatedAt": "2026-06-04T00:01:40.394Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a20b1cde8ed3074c3f82125",
+    "homeTeam": "Atletico Mineiro",
+    "awayTeam": "Bahia",
+    "normalizedHomeTeam": "atletico mineiro",
+    "normalizedAwayTeam": "bahia",
+    "sportsbookA": {
+      "homeOdds": 1.92,
+      "drawOdds": 3,
+      "awayOdds": 3.1,
+      "bookmakerKey": "unibet_fr",
+      "bookmakerName": "Unibet (FR)",
+      "scrapedAt": "2026-06-04T00:01:37.717Z",
+      "_id": "6a20c0616d2cac96f4e38e70"
+    },
+    "sportsbookB": {
+      "homeOdds": 2.15,
+      "drawOdds": 3.2,
+      "awayOdds": 3.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:37.736Z",
+      "_id": "6a20c0616d2cac96f4e38e74"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.14,
+      "drawOdds": 3.3,
+      "awayOdds": 3.32,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0616d2cac96f4e38e71"
+    },
+    "eventDate": "2026-07-22T20:00:00.000Z",
+    "league": "brazil-serie-a",
+    "lastUpdated": "2026-06-04T00:01:37.738Z",
+    "createdAt": "2026-06-03T22:59:25.938Z",
+    "updatedAt": "2026-06-04T00:01:37.739Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a20b1cde8ed3074c3f8212d",
+    "homeTeam": "Sao Paulo",
+    "awayTeam": "Atletico Paranaense",
+    "normalizedHomeTeam": "sao paulo",
+    "normalizedAwayTeam": "atletico paranaense",
+    "sportsbookA": {
+      "homeOdds": 1.74,
+      "drawOdds": 3.1,
+      "awayOdds": 3.7,
+      "bookmakerKey": "unibet_fr",
+      "bookmakerName": "Unibet (FR)",
+      "scrapedAt": "2026-06-04T00:01:37.742Z",
+      "_id": "6a20c0616d2cac96f4e38e77"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.85,
+      "drawOdds": 3.25,
+      "awayOdds": 4,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-04T00:01:37.751Z",
+      "_id": "6a20c0616d2cac96f4e38e7b"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.86,
+      "drawOdds": 3.32,
+      "awayOdds": 4.3,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0616d2cac96f4e38e78"
+    },
+    "eventDate": "2026-07-22T20:00:00.000Z",
+    "league": "brazil-serie-a",
+    "lastUpdated": "2026-06-04T00:01:37.756Z",
+    "createdAt": "2026-06-03T22:59:25.951Z",
+    "updatedAt": "2026-06-04T00:01:37.757Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a20b1cde8ed3074c3f82135",
+    "homeTeam": "Botafogo",
+    "awayTeam": "Santos",
+    "normalizedHomeTeam": "botafogo",
+    "normalizedAwayTeam": "santos",
+    "sportsbookA": {
+      "homeOdds": 1.77,
+      "drawOdds": 3,
+      "awayOdds": 3.7,
+      "bookmakerKey": "unibet_fr",
+      "bookmakerName": "Unibet (FR)",
+      "scrapedAt": "2026-06-04T00:01:37.758Z",
+      "_id": "6a20c0616d2cac96f4e38e7e"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.91,
+      "drawOdds": 3.3,
+      "awayOdds": 4.33,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:37.762Z",
+      "_id": "6a20c0616d2cac96f4e38e82"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.94,
+      "drawOdds": 3.32,
+      "awayOdds": 3.92,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0616d2cac96f4e38e7f"
+    },
+    "eventDate": "2026-07-22T20:00:00.000Z",
+    "league": "brazil-serie-a",
+    "lastUpdated": "2026-06-04T00:01:37.763Z",
+    "createdAt": "2026-06-03T22:59:25.959Z",
+    "updatedAt": "2026-06-04T00:01:37.763Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a20b1cde8ed3074c3f8213d",
+    "homeTeam": "Chapecoense",
+    "awayTeam": "Flamengo",
+    "normalizedHomeTeam": "chapecoense",
+    "normalizedAwayTeam": "flamengo",
+    "sportsbookA": {
+      "homeOdds": 5.4,
+      "drawOdds": 3.7,
+      "awayOdds": 1.4,
+      "bookmakerKey": "unibet_fr",
+      "bookmakerName": "Unibet (FR)",
+      "scrapedAt": "2026-06-04T00:01:37.765Z",
+      "_id": "6a20c0616d2cac96f4e38e85"
+    },
+    "sportsbookB": {
+      "homeOdds": 6,
+      "drawOdds": 4,
+      "awayOdds": 1.53,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:37.768Z",
+      "_id": "6a20c0616d2cac96f4e38e89"
+    },
+    "sharpOdds": {
+      "homeOdds": 6.35,
+      "drawOdds": 4.1,
+      "awayOdds": 1.49,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0616d2cac96f4e38e86"
+    },
+    "eventDate": "2026-07-22T20:00:00.000Z",
+    "league": "brazil-serie-a",
+    "lastUpdated": "2026-06-04T00:01:37.769Z",
+    "createdAt": "2026-06-03T22:59:25.966Z",
+    "updatedAt": "2026-06-04T00:01:37.770Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a20b1cde8ed3074c3f82145",
+    "homeTeam": "Corinthians",
+    "awayTeam": "Remo",
+    "normalizedHomeTeam": "corinthians",
+    "normalizedAwayTeam": "remo",
+    "sportsbookA": {
+      "homeOdds": 1.44,
+      "drawOdds": 3.4,
+      "awayOdds": 5.4,
+      "bookmakerKey": "unibet_fr",
+      "bookmakerName": "Unibet (FR)",
+      "scrapedAt": "2026-06-04T00:01:37.771Z",
+      "_id": "6a20c0616d2cac96f4e38e8c"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.57,
+      "drawOdds": 3.75,
+      "awayOdds": 6.5,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:37.773Z",
+      "_id": "6a20c0616d2cac96f4e38e90"
+    },
+    "sharpOdds": {
+      "homeOdds": 1.54,
+      "drawOdds": 3.82,
+      "awayOdds": 6.2,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0616d2cac96f4e38e8d"
+    },
+    "eventDate": "2026-07-22T20:00:00.000Z",
+    "league": "brazil-serie-a",
+    "lastUpdated": "2026-06-04T00:01:37.775Z",
+    "createdAt": "2026-06-03T22:59:25.973Z",
+    "updatedAt": "2026-06-04T00:01:37.775Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a20b1cde8ed3074c3f8214d",
+    "homeTeam": "Coritiba",
+    "awayTeam": "Palmeiras",
+    "normalizedHomeTeam": "coritiba",
+    "normalizedAwayTeam": "palmeiras",
+    "sportsbookA": {
+      "homeOdds": 3.7,
+      "drawOdds": 3,
+      "awayOdds": 1.77,
+      "bookmakerKey": "unibet_fr",
+      "bookmakerName": "Unibet (FR)",
+      "scrapedAt": "2026-06-04T00:01:37.776Z",
+      "_id": "6a20c0616d2cac96f4e38e93"
+    },
+    "sportsbookB": {
+      "homeOdds": 4,
+      "drawOdds": 3.2,
+      "awayOdds": 2,
+      "bookmakerKey": "ladbrokes_uk",
+      "bookmakerName": "Ladbrokes",
+      "scrapedAt": "2026-06-04T00:01:37.779Z",
+      "_id": "6a20c0616d2cac96f4e38e97"
+    },
+    "sharpOdds": {
+      "homeOdds": 3.94,
+      "drawOdds": 3.3,
+      "awayOdds": 1.94,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0616d2cac96f4e38e94"
+    },
+    "eventDate": "2026-07-22T20:00:00.000Z",
+    "league": "brazil-serie-a",
+    "lastUpdated": "2026-06-04T00:01:37.780Z",
+    "createdAt": "2026-06-03T22:59:25.978Z",
+    "updatedAt": "2026-06-04T00:01:37.780Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a20b1cde8ed3074c3f82155",
+    "homeTeam": "Mirassol",
+    "awayTeam": "Grêmio",
+    "normalizedHomeTeam": "mirassol",
+    "normalizedAwayTeam": "gremio",
+    "sportsbookA": {
+      "homeOdds": 1.9,
+      "drawOdds": 3,
+      "awayOdds": 3.2,
+      "bookmakerKey": "unibet_fr",
+      "bookmakerName": "Unibet (FR)",
+      "scrapedAt": "2026-06-04T00:01:37.781Z",
+      "_id": "6a20c0616d2cac96f4e38e9a"
+    },
+    "sportsbookB": {
+      "homeOdds": 1.95,
+      "drawOdds": 3.25,
+      "awayOdds": 3.5,
+      "bookmakerKey": "paddypower",
+      "bookmakerName": "Paddy Power",
+      "scrapedAt": "2026-06-04T00:01:37.783Z",
+      "_id": "6a20c0616d2cac96f4e38e9e"
+    },
+    "sharpOdds": {
+      "homeOdds": 2.1,
+      "drawOdds": 3.3,
+      "awayOdds": 3.42,
+      "bookmakerKey": "marathonbet",
+      "bookmakerName": "Marathon Bet",
+      "_id": "6a20c0616d2cac96f4e38e9b"
+    },
+    "eventDate": "2026-07-22T20:00:00.000Z",
+    "league": "brazil-serie-a",
+    "lastUpdated": "2026-06-04T00:01:37.785Z",
+    "createdAt": "2026-06-03T22:59:25.982Z",
+    "updatedAt": "2026-06-04T00:01:37.785Z",
+    "__v": 0
+  }
+]

@@ -13,7 +13,9 @@
     "site:restart": "npx pm2 restart odds-api odds-frontend && npx pm2 save",
     "site:status": "npx pm2 status",
     "site:logs": "npx pm2 logs --lines 120",
-    "site:startup": "npx pm2 startup"
+    "site:startup": "npx pm2 startup",
+    "db:export": "node export_db.js",
+    "db:import": "node import_db.js"
   },
   "dependencies": {
     "cors": "^2.8.6",
