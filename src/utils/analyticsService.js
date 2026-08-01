@@ -154,6 +154,16 @@ export class AnalyticsService {
           drawProb = dp;
           awayProb = ap;
           hasSharpLines = true;
+        } else if (match.sharpOdds && match.sharpOdds.homeOdds && match.sharpOdds.drawOdds && match.sharpOdds.awayOdds) {
+          const { homeProb: hp, drawProb: dp, awayProb: ap } = removeVigAndGetTrueProbabilities(
+            match.sharpOdds.homeOdds,
+            match.sharpOdds.drawOdds,
+            match.sharpOdds.awayOdds
+          );
+          homeProb = hp;
+          drawProb = dp;
+          awayProb = ap;
+          hasSharpLines = true;
         }
 
         const getDCOdd = (o1, o2) => {
@@ -297,12 +307,42 @@ export class AnalyticsService {
 
       // --- CÁLCULO 3: O BILHETE MULTIPLICADOR (A Tripla de Ouro) ---
       // Monta uma múltipla real com jogos diferentes, buscando a melhor combinação global de 3 partidas.
-      const valueScoreCandidates = [...allOutcomes];
-      const isComboPreferred = (type) => type.endsWith('_G15') || type.endsWith('_C85');
+      let valueScoreCandidates = [];
+      let filteringMode = 'strict';
+
+      // Filtro Estrito: odds [1.30, 2.20], probabilidade >= 40%, EV >= -0.05 (se sharp)
+      valueScoreCandidates = allOutcomes.filter(o =>
+        o.odd >= 1.30 &&
+        o.odd <= 2.20 &&
+        o.winProbabilityPercentage >= 40.0 &&
+        (!o.hasSharpLines || o.ev >= -0.05)
+      );
+
+      const getDistinctMatchCount = (items) => {
+        return new Set(items.map(o => o.matchId.toString())).size;
+      };
+
+      // Fallback 1: Filtro Moderado se não houver pelo menos 3 jogos distintos
+      if (getDistinctMatchCount(valueScoreCandidates) < 3) {
+        filteringMode = 'moderate';
+        valueScoreCandidates = allOutcomes.filter(o =>
+          o.odd >= 1.30 &&
+          o.odd <= 2.50 &&
+          o.winProbabilityPercentage >= 35.0 &&
+          (!o.hasSharpLines || o.ev >= -0.10)
+        );
+      }
+
+      // Fallback 2: Filtro Amplo / Absoluto se ainda assim faltar jogos
+      if (getDistinctMatchCount(valueScoreCandidates) < 3) {
+        filteringMode = 'fallback';
+        valueScoreCandidates = allOutcomes.filter(o => o.odd >= 1.20);
+      }
+
+      console.log(`[AnalyticsService] Tripla de Ouro - Selecionados ${valueScoreCandidates.length} candidatos sob o modo: ${filteringMode}`);
+
+      // Ordenação pura por valor matemático (valueScore)
       valueScoreCandidates.sort((a, b) => {
-        const boostA = isComboPreferred(a.type) ? 1 : 0;
-        const boostB = isComboPreferred(b.type) ? 1 : 0;
-        if (boostB !== boostA) return boostB - boostA;
         return b.valueScore - a.valueScore || a.eventDate.getTime() - b.eventDate.getTime();
       });
 
