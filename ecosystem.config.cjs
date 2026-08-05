@@ -13,7 +13,7 @@ module.exports = {
     {
       name: 'odds-frontend',
       script: 'npm',
-      args: 'run preview -- --host 0.0.0.0 --port 4173',
+      args: 'run preview -- --host 0.0.0.0 --port 5178',
       cwd: './frontend',
       env: {
         NODE_ENV: 'production'
